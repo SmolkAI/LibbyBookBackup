@@ -1,0 +1,7 @@
+{
+  "chromeProfilePath": "/path/to/Google/Chrome/LibbyProfile",
+  "dataDir": "/path/to/LibbyBookBackup",
+  "booksDir": "books",
+  "timelineFile": "libbytimeline-activities.json",
+  "exportLogFile": "export_log.txt"
+}

@@ -1,4 +1,8 @@
 import json
+import os
+import sys
+from pathlib import Path
+
 import requests
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -6,18 +10,39 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import TimeoutException
-# import time
 
-def log_to_file(url):
-    log_file_path = "/Users/michael/Library/CloudStorage/OneDrive-Personal/Documents/2023/projects/forfun/LibbyBookBackup/export_log.txt"
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+def load_config():
+    """Load config from config.json, falling back to env vars."""
+    config_path = PROJECT_ROOT / "config.json"
+    config = {}
+    if config_path.exists():
+        with open(config_path) as f:
+            config = json.load(f)
+    return {
+        "chromeProfilePath": config.get("chromeProfilePath") or os.environ.get("LIBBY_CHROME_PROFILE", ""),
+        "dataDir": config.get("dataDir") or os.environ.get("LIBBY_DATA_DIR", str(PROJECT_ROOT)),
+        "exportLogFile": config.get("exportLogFile", "export_log.txt"),
+        "timelineFile": config.get("timelineFile", "libbytimeline-activities.json"),
+    }
+
+def log_to_file(url, config):
+    log_file_path = Path(config["dataDir"]) / config["exportLogFile"]
     with open(log_file_path, "a") as log_file:
         log_file.write(f"Exported URL: {url}\n")
 
 def export_timeline():
+    config = load_config()
+    if not config["chromeProfilePath"]:
+        print("Error: Chrome profile path not configured.", file=sys.stderr)
+        print("Set LIBBY_CHROME_PROFILE env var or create config.json (see config.example.json)", file=sys.stderr)
+        sys.exit(1)
+
     # Initialize WebDriver
     chrome_options = Options()
-    user_agent, profile_location = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36", "/Users/michael/Library/Application Support/Google/Chrome/LibbyProfile"
-    chrome_options.arguments.extend([f"user-agent={user_agent}", f"user-data-dir={profile_location}"]) # , "--headless"])
+    user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    chrome_options.arguments.extend([f"user-agent={user_agent}", f"user-data-dir={config['chromeProfilePath']}"])
     driver = webdriver.Chrome(options=chrome_options)
 
     # Set viewport size to the size I had when I first wrote this script
@@ -64,7 +89,7 @@ def export_timeline():
 
     # Save the webpage as a JSON file
     wait.until(lambda d: d.current_url.find("data") == 27)
-    log_to_file(driver.current_url)  # Log the URL I attempted to export to a file. Eventually I'll want to check the file to see if it's always the same one for any given user.
+    log_to_file(driver.current_url, config)
     if driver.current_url.find("data") == 27:
         current_url = driver.current_url
     else:
@@ -73,7 +98,7 @@ def export_timeline():
     # Fetch URL content
     response = requests.get(current_url)
     json_data = response.json()
-    save_path = "/Users/michael/Library/CloudStorage/OneDrive-Personal/Documents/2023/projects/forfun/LibbyBookBackup/libbytimeline-activities.json"
+    save_path = Path(config["dataDir"]) / config["timelineFile"]
 
     with open(save_path, "w") as f:
         json.dump(json_data, f, indent=2)

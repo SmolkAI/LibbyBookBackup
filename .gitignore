@@ -1,0 +1,10 @@
+books/
+all_overdrive_books/
+old/
+node_modules/
+config.json
+downloaded_books.txt
+ui/data/index.json
+__pycache__/
+*.pyc
+.DS_Store

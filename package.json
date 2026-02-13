@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Backup your Libby book notes.\n\nDid you take notes while reading an ebook or listening to an audiobook in Libby? This script will download them for you.",
   "dependencies": {
-    "puppeteer": "^10.0.0",
-    "date-fns": "^2.0.0"
+    "puppeteer": "^22.0.0",
+    "date-fns": "^3.0.0"
   }
 }

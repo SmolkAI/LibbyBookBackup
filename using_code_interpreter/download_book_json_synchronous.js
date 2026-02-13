@@ -1,12 +1,36 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
+const path = require('path');
 const { format } = require('date-fns');
 
+const PROJECT_ROOT = path.resolve(__dirname, '..');
+
+function loadConfig() {
+    const configPath = path.join(PROJECT_ROOT, 'config.json');
+    let config = {};
+    if (fs.existsSync(configPath)) {
+        config = JSON.parse(fs.readFileSync(configPath, 'utf8'));
+    }
+    return {
+        chromeProfilePath: config.chromeProfilePath || process.env.LIBBY_CHROME_PROFILE || '',
+        dataDir: config.dataDir || process.env.LIBBY_DATA_DIR || PROJECT_ROOT,
+        booksDir: config.booksDir || 'books',
+        timelineFile: config.timelineFile || 'libbytimeline-activities.json',
+    };
+}
+
+const CONFIG = loadConfig();
+if (!CONFIG.chromeProfilePath) {
+    console.error('Error: Chrome profile path not configured.');
+    console.error('Set LIBBY_CHROME_PROFILE env var or create config.json (see config.example.json)');
+    process.exit(1);
+}
+
 // Load the JSON data file
-const timelineJson = require('../libbytimeline-activities.json');
+const timelineJson = require(path.join(PROJECT_ROOT, CONFIG.timelineFile));
 
 // Load the list of book IDs that have already been downloaded
-let downloadedBooksFile = '../downloaded_books.txt';
+let downloadedBooksFile = path.join(PROJECT_ROOT, 'downloaded_books.txt');
 let downloadedBooksList = readBookIdsFromFile(downloadedBooksFile);
 
 // Function to read book IDs from a file
@@ -104,13 +128,14 @@ async function saveJson(data, folder = "books") {
     const bookFormat = data.readingJourney.cover.format;
 
     const filename = `Book ${date1} ${title} by ${author} ${bookFormat} notes (downloaded ${current_date}).json`;
-    const path = `${folder}/${filename}`;
+    const filePath = path.join(PROJECT_ROOT, folder, filename);
 
-    if (!fs.existsSync(folder)) {
-        fs.mkdirSync(folder);
+    const fullFolder = path.join(PROJECT_ROOT, folder);
+    if (!fs.existsSync(fullFolder)) {
+        fs.mkdirSync(fullFolder, { recursive: true });
     }
 
-    fs.writeFileSync(path, JSON.stringify(data, null, 2));
+    fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
 
     // save the book title ID to the downloadedBooks text list and then save the list to the downloaded_books.txt file
     downloadedBooksList.push(data.readingJourney.title.titleId);
@@ -127,7 +152,7 @@ async function saveJson(data, folder = "books") {
     const browser = await puppeteer.launch({
         headless: false,
         defaultViewport: null,
-        userDataDir: '/Users/michael/Library/Application Support/Google/Chrome/LibbyProfile',
+        userDataDir: CONFIG.chromeProfilePath,
         args: ['--disable-blink-features=AutomationControlled'] // hide the fact that this is an automated browser
     });
 
