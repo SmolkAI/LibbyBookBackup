@@ -88,7 +88,9 @@ button:hover { background: var(--bg); }
 .hl-note::before { content: "Note: "; font-weight: 600; }
 
 /* Bookmarks */
-.bookmark { padding: 8px 12px; margin-bottom: 4px; border-radius: 6px; background: var(--bg); font-size: 0.85rem; display: flex; justify-content: space-between; color: var(--text2); }
+.bookmark { padding: 8px 12px; margin-bottom: 4px; border-radius: 6px; background: var(--bg); font-size: 0.85rem; color: var(--text2); }
+.bm-header { display: flex; justify-content: space-between; }
+.bm-note { margin-top: 4px; color: var(--text); font-style: italic; white-space: pre-wrap; }
 
 /* Circulation */
 .circ-item { padding: 8px 12px; margin-bottom: 4px; border-radius: 6px; background: var(--bg); font-size: 0.85rem; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 4px; }
@@ -384,7 +386,9 @@ function renderDetail(container, book, data) {
     html += `<div class="section-title">Bookmarks (${bookmarks.length})</div>`;
     bookmarks.forEach(bm => {
       const date = bm.timestamp ? new Date(bm.timestamp).toLocaleDateString() : '';
-      html += `<div class="bookmark"><span>${escHtml(bm.chapter || 'Bookmark')}</span><span>${Math.round((bm.percent || 0) * 100)}% &middot; ${date}</span></div>`;
+      html += `<div class="bookmark"><div class="bm-header"><span>${escHtml(bm.chapter || 'Bookmark')}</span><span>${Math.round((bm.percent || 0) * 100)}% &middot; ${date}</span></div>`;
+      if (bm.note) html += `<div class="bm-note">${escHtml(bm.note)}</div>`;
+      html += `</div>`;
     });
   }
 
