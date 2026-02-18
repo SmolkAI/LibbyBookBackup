@@ -80,11 +80,18 @@ button:hover { background: var(--bg); }
 .progress-fill { height: 100%; background: var(--accent); border-radius: 3px; }
 
 /* Highlights list */
-.highlight { padding: 10px 12px; margin-bottom: 8px; border-radius: 6px; border-left: 4px solid; font-size: 0.9rem; line-height: 1.5; }
+.highlight { padding: 10px 12px; margin-bottom: 8px; border-radius: 6px; border-left: 4px solid; font-size: 0.9rem; line-height: 1.5; cursor: pointer; }
 .highlight[data-color="#FFB"] { background: var(--yellow); border-color: #e6c200; }
 .highlight[data-color="#DFC"] { background: var(--green); border-color: #4caf50; }
 .highlight[data-color="#FFE0EC"] { background: var(--pink); border-color: #e91e63; }
-.hl-chapter { font-size: 0.75rem; color: var(--text2); margin-bottom: 4px; font-weight: 600; }
+.hl-header { display: flex; justify-content: space-between; align-items: baseline; font-size: 0.75rem; color: var(--text2); font-weight: 600; }
+.hl-header::before { content: '▸ '; font-size: 0.7rem; }
+.highlight.expanded .hl-header::before { content: '▾ '; }
+.hl-preview { font-size: 0.85rem; color: var(--text2); margin-top: 4px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.highlight.expanded .hl-preview { display: none; }
+.hl-body { display: none; margin-top: 6px; }
+.highlight.expanded .hl-body { display: block; }
+.hl-quote { white-space: pre-wrap; }
 .hl-note { font-style: italic; margin-top: 6px; color: var(--text2); font-size: 0.85rem; }
 .hl-note::before { content: "Note: "; font-weight: 600; }
 
@@ -299,6 +306,13 @@ function toggleAllBookmarks(e) {
   bms.forEach(b => b.classList.toggle('expanded', !anyExpanded));
   e.target.textContent = anyExpanded ? 'Expand All' : 'Collapse All';
 }
+function toggleAllHighlights(e) {
+  e.stopPropagation();
+  const hls = document.querySelectorAll('.highlight');
+  const anyExpanded = [...hls].some(h => h.classList.contains('expanded'));
+  hls.forEach(h => h.classList.toggle('expanded', !anyExpanded));
+  e.target.textContent = anyExpanded ? 'Expand All' : 'Collapse All';
+}
 
 // Events
 let searchTimeout;
@@ -382,14 +396,17 @@ function renderDetail(container, book, data) {
 
   // Highlights
   if (highlights.length) {
-    html += `<div class="section-title">Highlights (${highlights.length})</div>`;
+    html += `<div class="section-title"><span>Highlights (${highlights.length})</span><span class="expand-toggle" onclick="toggleAllHighlights(event)">Expand All</span></div>`;
     highlights.forEach(h => {
       const color = h.color || '#FFB';
-      html += `<div class="highlight" data-color="${escAttr(color)}">`;
-      if (h.chapter) html += `<div class="hl-chapter">${escHtml(h.chapter)} &middot; ${Math.round((h.percent || 0) * 100)}%</div>`;
-      html += escHtml(h.quote);
+      const preview = (h.quote || '').substring(0, 80) + ((h.quote || '').length > 80 ? '...' : '');
+      html += `<div class="highlight" data-color="${escAttr(color)}" onclick="this.classList.toggle('expanded')">`;
+      html += `<div class="hl-header"><span>${escHtml(h.chapter || 'Highlight')} &middot; ${Math.round((h.percent || 0) * 100)}%</span></div>`;
+      html += `<div class="hl-preview">${escHtml(preview)}</div>`;
+      html += `<div class="hl-body">`;
+      html += `<div class="hl-quote">${escHtml(h.quote || '')}</div>`;
       if (h.note) html += `<div class="hl-note">${escHtml(h.note)}</div>`;
-      html += `</div>`;
+      html += `</div></div>`;
     });
   }
 
