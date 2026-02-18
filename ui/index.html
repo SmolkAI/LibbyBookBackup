@@ -71,8 +71,9 @@ button:hover { background: var(--bg); }
 .detail-meta .meta-row { font-size: 0.85rem; color: var(--text2); margin-bottom: 4px; }
 .detail-close { position: absolute; top: 8px; right: 12px; font-size: 1.5rem; cursor: pointer; color: var(--text2); background: none; border: none; }
 .detail-body { padding: 20px 24px; position: relative; }
-.section-title { font-size: 0.9rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text2); margin: 16px 0 8px; }
+.section-title { font-size: 0.9rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text2); margin: 16px 0 8px; display: flex; justify-content: space-between; align-items: center; }
 .section-title:first-child { margin-top: 0; }
+.expand-toggle { font-size: 0.75rem; font-weight: 400; text-transform: none; letter-spacing: 0; color: var(--accent); cursor: pointer; }
 
 /* Progress bar */
 .progress-bar { height: 6px; background: var(--border); border-radius: 3px; overflow: hidden; margin: 8px 0; }
@@ -291,6 +292,13 @@ function placeholderHtml(title, color) {
 
 function escHtml(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
 function escAttr(s) { return (s || '').replace(/"/g, '&quot;').replace(/'/g, '&#39;').replace(/</g, '&lt;'); }
+function toggleAllBookmarks(e) {
+  e.stopPropagation();
+  const bms = document.querySelectorAll('.bookmark.has-note');
+  const anyExpanded = [...bms].some(b => b.classList.contains('expanded'));
+  bms.forEach(b => b.classList.toggle('expanded', !anyExpanded));
+  e.target.textContent = anyExpanded ? 'Expand All' : 'Collapse All';
+}
 
 // Events
 let searchTimeout;
@@ -387,7 +395,8 @@ function renderDetail(container, book, data) {
 
   // Bookmarks
   if (bookmarks.length) {
-    html += `<div class="section-title">Bookmarks (${bookmarks.length})</div>`;
+    const hasNotes = bookmarks.some(bm => bm.note);
+    html += `<div class="section-title"><span>Bookmarks (${bookmarks.length})</span>${hasNotes ? '<span class="expand-toggle" onclick="toggleAllBookmarks(event)">Expand All</span>' : ''}</div>`;
     bookmarks.forEach(bm => {
       const date = bm.timestamp ? new Date(bm.timestamp).toLocaleDateString() : '';
       const hasNote = bm.note ? ' has-note' : '';
