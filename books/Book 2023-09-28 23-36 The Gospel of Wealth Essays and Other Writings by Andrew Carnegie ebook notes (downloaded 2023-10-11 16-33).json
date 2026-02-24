@@ -19,9 +19,74 @@
   },
   "circulation": [
     {
+      "timestamp": 1718412429000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
+      "timestamp": 1714371878000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
+      "timestamp": 1710523271000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
+      "timestamp": 1710371115000,
+      "activity": "Returned",
+      "details": "on due date",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
+      "timestamp": 1705252071000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
+      "timestamp": 1700417053000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
+      "timestamp": 1697784565000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
       "timestamp": 1695969379738,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "New York Public Library",
         "url": "https://libbyapp.com/library/nypl",
@@ -31,12 +96,13 @@
     {
       "timestamp": 1695969379000,
       "activity": "Borrowed",
-      "details": " 21 days ",
       "library": {
         "text": "New York Public Library",
         "url": "https://libbyapp.com/library/nypl",
         "key": "nypl"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

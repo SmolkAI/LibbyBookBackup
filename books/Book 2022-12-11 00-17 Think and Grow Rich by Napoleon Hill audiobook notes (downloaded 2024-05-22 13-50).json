@@ -15,13 +15,13 @@
     },
     "author": "Napoleon Hill",
     "publisher": "Gildan Media Corp",
-    "percent": 0
+    "percent": 0.065865925429012
   },
   "circulation": [
     {
       "timestamp": 1670746672236,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "San Francisco Public Library",
         "url": "https://libbyapp.com/library/sfpl",
@@ -36,6 +36,14 @@
         "url": "https://libbyapp.com/library/sfpl",
         "key": "sfpl"
       }
+    }
+  ],
+  "highlights": [],
+  "bookmarks": [
+    {
+      "timestamp": 1659807525000,
+      "percent": 0.0219810128620823,
+      "note": "\u201cBargain with life on their own terms.\u201d So that\u2019s the secret. You have to ask of life what you want of life, and then go after that which you want. Eventually, you\u2019ll get it if you keep trying. But figure out what you want, figure out how to get it, and then don\u2019t give up in following the plan of how to get it."
     }
   ]
 }

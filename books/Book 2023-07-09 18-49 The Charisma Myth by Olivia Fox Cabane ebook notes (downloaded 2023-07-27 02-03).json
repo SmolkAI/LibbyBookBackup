@@ -19,9 +19,19 @@
   },
   "circulation": [
     {
+      "timestamp": 1690523186752,
+      "activity": "Returned",
+      "details": " 2 days  early",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
       "timestamp": 1688953743392,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "San Francisco Public Library",
         "url": "https://libbyapp.com/library/sfpl",
@@ -47,5 +57,7 @@
         "key": "brooklyn"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

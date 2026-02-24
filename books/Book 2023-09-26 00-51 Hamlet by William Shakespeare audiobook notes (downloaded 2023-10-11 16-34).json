@@ -15,13 +15,52 @@
     },
     "author": "William Shakespeare",
     "publisher": "Naxos AudioBooks",
-    "isbn": "9789629546854"
+    "isbn": "9789629546854",
+    "percent": 0.0574688679224369
   },
   "circulation": [
     {
+      "timestamp": 1707249012000,
+      "activity": "Returned",
+      "details": "on due date",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1705434612000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1703665872000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1700713928000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
       "timestamp": 1695714702023,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "San Francisco Public Library",
         "url": "https://libbyapp.com/library/sfpl",
@@ -31,12 +70,13 @@
     {
       "timestamp": 1695714701000,
       "activity": "Borrowed",
-      "details": " 21 days ",
       "library": {
         "text": "San Francisco Public Library",
         "url": "https://libbyapp.com/library/sfpl",
         "key": "sfpl"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

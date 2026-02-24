@@ -15,17 +15,118 @@
     },
     "author": "Thomas Erikson",
     "publisher": "Macmillan Audio",
-    "isbn": "9781250234001"
+    "isbn": "9781250234001",
+    "percent": 0.246983407541745
   },
   "circulation": [
     {
-      "timestamp": 1693885622540,
+      "timestamp": 1724613888000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Contra Costa County Library",
+        "url": "https://libbyapp.com/library/ccc",
+        "key": "ccc"
+      }
+    },
+    {
+      "timestamp": 1724312516263,
       "activity": "Placed on hold",
       "library": {
-        "text": "Brooklyn Public Library",
-        "url": "https://libbyapp.com/library/brooklyn",
-        "key": "brooklyn"
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
       }
+    },
+    {
+      "timestamp": 1722493383000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Contra Costa County Library",
+        "url": "https://libbyapp.com/library/ccc",
+        "key": "ccc"
+      }
+    },
+    {
+      "timestamp": 1719299244047,
+      "activity": "Tagged",
+      "details": "\ud83e\uddfe",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1719299243000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1706083239960,
+      "activity": "Placed on hold",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    }
+  ],
+  "highlights": [],
+  "bookmarks": [
+    {
+      "timestamp": 1723616909000,
+      "percent": 0.0977731245654161,
+      "note": "Haha. Makes sense. If the answer is yes, you don\u2019t waste time beating around the bush, and if the answer is no, then you don\u2019t waste time doing anything."
+    },
+    {
+      "timestamp": 1723991024000,
+      "percent": 0.135475487356227,
+      "note": "Mom seems to be a yellow when it comes to those outside the family. She tries to get Dad to be like that. I think Mendel manually tries to be yellow"
+    },
+    {
+      "timestamp": 1724046585000,
+      "percent": 0.159906987596751,
+      "note": "Regarding not offending people, yes that's a weakness of mine. Now regarding not talking back when the boss makes a strange decision, that might not be talking about me so much\u2026 Oh, never mind. Yeah, I try not to confront people, and I do talk behind their back. No matter how much I may try not to. And I do tend to question the decisions later, rather than right away, but that's mostly just because I am not thinking fast enough to figure out the downsides right away"
+    },
+    {
+      "timestamp": 1724046743000,
+      "percent": 0.16110835591487,
+      "note": "Husband is yellow? Mendel? Wife is Green? Vered? [Okay, well, Vered isn\u2019t exactly calm and composed, but mostly, yeah.] Might become the same with Liza and myself, as she is most likely a green, and I seem to tend towards yellow, if you take into account the fact that I have trouble thinking so quickly on my feet to keep up a conversation"
+    },
+    {
+      "timestamp": 1724077506000,
+      "percent": 0.163374465036012,
+      "note": "That would put me as a Green, as a forgettable, \"kindness-personified,\" person. Remembering all birthdays to keep relationships"
+    },
+    {
+      "timestamp": 1724077626000,
+      "percent": 0.164472202672869,
+      "note": "\"the team, the group, the family, always comes before the individual [the person himself].\" Dad"
+    },
+    {
+      "timestamp": 1724078917000,
+      "percent": 0.17896116396718,
+      "note": "How do I find these blues to do the paperwork for me? Or do I have to hire an expensive law firm"
+    },
+    {
+      "timestamp": 1724079245000,
+      "percent": 0.183691827230447,
+      "note": "Let's try to instill that into Dad. Maybe then he will start giving straight answers. Give the answer that you want to give, without regard for how that will affect everyone else"
+    },
+    {
+      "timestamp": 1724079501000,
+      "percent": 0.187722545155998,
+      "note": "Moral of the story: ask for help. Ask for referrals. Ask for what I need"
+    },
+    {
+      "timestamp": 1724774185000,
+      "percent": 0.21662753958609,
+      "note": "Did he end up paying for the material? Or did he just read it and so he didn\u2019t have to pay anymore? I\u2019m guessing that he did, because he was getting the training for the entire company, not just for himself"
     }
   ]
 }

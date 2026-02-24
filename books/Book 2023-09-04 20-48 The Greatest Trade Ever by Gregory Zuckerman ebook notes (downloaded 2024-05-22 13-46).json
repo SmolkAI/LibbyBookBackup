@@ -19,6 +19,15 @@
   },
   "circulation": [
     {
+      "timestamp": 1718143033000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
       "timestamp": 1693885699000,
       "activity": "Borrowed",
       "library": {
@@ -48,7 +57,7 @@
     {
       "timestamp": 1634873081019,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "San Francisco Public Library",
         "url": "https://libbyapp.com/library/sfpl",
@@ -67,7 +76,7 @@
     {
       "timestamp": 1634873072739,
       "activity": "Tagged",
-      "details": "Audible 🎧",
+      "details": "Audible \ud83c\udfa7",
       "library": {
         "text": "San Francisco Public Library",
         "url": "https://libbyapp.com/library/sfpl",
@@ -77,12 +86,14 @@
     {
       "timestamp": 1634873072004,
       "activity": "Tagged",
-      "details": "Trading 📚",
+      "details": "Trading \ud83d\udcda",
       "library": {
         "text": "San Francisco Public Library",
         "url": "https://libbyapp.com/library/sfpl",
         "key": "sfpl"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

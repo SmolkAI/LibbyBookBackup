@@ -21,7 +21,7 @@
     {
       "timestamp": 1675777843000,
       "percent": 0.209425513650075,
-      "note": "“Hey Siri, what is the round-trip fallacy?” OK, so he made it up. He makes up a lot of things. Based on… maybe the math/philosophy concepts identity, contrapositive, and Converse"
+      "note": "\u201cHey Siri, what is the round-trip fallacy?\u201d OK, so he made it up. He makes up a lot of things. Based on\u2026 maybe the math/philosophy concepts identity, contrapositive, and Converse"
     }
   ],
   "circulation": [
@@ -37,7 +37,7 @@
     {
       "timestamp": 1671051900922,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "Brooklyn Public Library",
         "url": "https://libbyapp.com/library/brooklyn",
@@ -53,5 +53,6 @@
         "key": "brooklyn"
       }
     }
-  ]
+  ],
+  "highlights": []
 }

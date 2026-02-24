@@ -22,7 +22,7 @@
     {
       "timestamp": 1679671533971,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "Contra Costa County Library",
         "url": "https://libbyapp.com/library/ccc",
@@ -38,5 +38,7 @@
         "key": "ccc"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

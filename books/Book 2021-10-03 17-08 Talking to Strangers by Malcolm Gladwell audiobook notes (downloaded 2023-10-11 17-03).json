@@ -19,9 +19,27 @@
   },
   "circulation": [
     {
+      "timestamp": 1704995573453,
+      "activity": "Placed on hold",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1704995554250,
+      "activity": "Placed on hold",
+      "library": {
+        "text": "Brooklyn Public Library",
+        "url": "https://libbyapp.com/library/brooklyn",
+        "key": "brooklyn"
+      }
+    },
+    {
       "timestamp": 1633306115646,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "Contra Costa County Library",
         "url": "https://libbyapp.com/library/ccc",
@@ -40,7 +58,7 @@
     {
       "timestamp": 1633306109982,
       "activity": "Tagged",
-      "details": "Audible 🎧",
+      "details": "Audible \ud83c\udfa7",
       "library": {
         "text": "Contra Costa County Library",
         "url": "https://libbyapp.com/library/ccc",
@@ -57,5 +75,7 @@
         "key": "sfpl"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

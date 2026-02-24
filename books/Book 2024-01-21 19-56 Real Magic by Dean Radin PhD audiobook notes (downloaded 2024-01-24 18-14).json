@@ -15,9 +15,40 @@
     },
     "author": "Dean Radin PhD",
     "publisher": "Books on Tape",
-    "isbn": "9780525589846"
+    "isbn": "9780525589846",
+    "percent": 0.226270471735592
   },
   "circulation": [
+    {
+      "timestamp": 1708444438000,
+      "activity": "Returned",
+      "details": "on due date",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1706630039151,
+      "activity": "Tagged",
+      "details": "\ud83e\uddfe",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1706630038000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
     {
       "timestamp": 1705895760917,
       "activity": "Placed on hold",
@@ -26,6 +57,64 @@
         "url": "https://libbyapp.com/library/sfpl",
         "key": "sfpl"
       }
+    }
+  ],
+  "highlights": [],
+  "bookmarks": [
+    {
+      "timestamp": 1706805563000,
+      "percent": 0.0805443965199913,
+      "note": "So far, he still hasn't said anything. He has been spending the beginning of this book desperately trying to tell us that magic is real and that his work is scientifically condoned research"
+    },
+    {
+      "timestamp": 1706862905000,
+      "percent": 0.112955452070071,
+      "note": "As I recently read when looking into James RandI (who apparently died last year?), true cynicism is fully opening your mind and suspending all disbelief. It also means that, until you've been shown definitive proof, you can't accept something is true. Those two go hand-in-hand. So I have to remember that, when reading this book, I need to have bittul; I need to have an open mind"
+    },
+    {
+      "timestamp": 1706863189000,
+      "percent": 0.115201790218244,
+      "note": "In true, traditional Judaism, Magic does exist. We shouldn't practice it, probably for fear of exactly what they're saying here, that people might turn away and it's easier to control people if they only believe what you want them to, but there's nothing inherently against magic. Kabbalah is essentially magic. The belief his neck, given the proper incantation and using the right words, you can essentially create anything. That's why names have such power. And God created the world in six days through speech"
+    },
+    {
+      "timestamp": 1706863417000,
+      "percent": 0.117842475422188,
+      "note": "And, of course, my mind must also be open to the possibility that this is just pure fiction. Allowing for the possibility that this is Fantasy is just as much a part of openmindedness as allowing for the possibility that this is real"
+    },
+    {
+      "timestamp": 1706864174000,
+      "percent": 0.132454337408755,
+      "note": "But how does Dean Radin ____ with James Randi? If only one of them can be right (although, I guess Randi could pay out his prize and keep his show going as though he didn't), then why didn't the two of them square off and just determine whether magic is real or not?"
+    },
+    {
+      "timestamp": 1708319721000,
+      "percent": 0.146636669593401,
+      "note": "Lol. The very things that would make you more susceptible to believe in crock. [these are the things that make it \u201cmore likely\u201d for magic to occur. I.E. it\u2019s more likely to happen and be reported by people who are more likely to believe in something that isn\u2019t real, at a time when they are at a heightened state of sensitivity to this unreal sphere. Of course, this can be said another way, that people are \u201cmore likely to experience this magical realm when they're at a heightened state of sensitivity\u201d; if you\u2019re of the sort inclined to believe this is true, this is how you\u2019d say it and it means roughly the same thing that I said above]"
+    },
+    {
+      "timestamp": 1708320772000,
+      "percent": 0.181421110201366,
+      "note": "This right here is the very reason that rabbis and scholars can say that the first six days of creation could have spanned tens or hundreds of millions of years"
+    },
+    {
+      "timestamp": 1708325338000,
+      "percent": 0.197024641056116,
+      "note": "But couldn\u2019t he just show them? That\u2019s where the take falls apart. But I guess that\u2019s the point of the allegory. What if you *can\u2019t* show them, the way this prisoner could? What if real reality is magical and they can\u2019t see it"
+    },
+    {
+      "timestamp": 1708325506000,
+      "percent": 0.202195173869928,
+      "note": "\u201cGrok,\u201d commonly used in programming and now in X AI bot, comes from the #book Stranger in a Strange Land, which I should skim"
+    },
+    {
+      "timestamp": 1708325646000,
+      "percent": 0.205966825681901,
+      "note": "This is exactly what Kabbalah teaches. All is oneness "
+    },
+    {
+      "timestamp": 1708325723000,
+      "percent": 0.208306904861764,
+      "note": "So this brings up a good point. Maybe \u201creal magic\u201d and Kabbalah are an offshoot of this Neoplatonism, and Jewish and other mysticism spring from his imaginings (or, maybe it\u2019s the opposite, of course I have to give the religion some credit, given that it\u2019s the philosophy of a people that has survived many, many years and which included my ancestors and brought life to me)"
     }
   ]
 }

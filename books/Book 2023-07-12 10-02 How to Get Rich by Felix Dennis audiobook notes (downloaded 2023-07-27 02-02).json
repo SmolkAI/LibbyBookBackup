@@ -15,13 +15,42 @@
     },
     "author": "Felix Dennis",
     "publisher": "Books on Tape",
-    "isbn": "9780593345528"
+    "isbn": "9780593345528",
+    "percent": 0.999999985960954
   },
   "circulation": [
     {
+      "timestamp": 1692930998000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Brooklyn Public Library",
+        "url": "https://libbyapp.com/library/brooklyn",
+        "key": "brooklyn"
+      }
+    },
+    {
+      "timestamp": 1691113165000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
+      "timestamp": 1690995724000,
+      "activity": "Returned",
+      "details": "on due date",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
       "timestamp": 1689181324739,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "New York Public Library",
         "url": "https://libbyapp.com/library/nypl",
@@ -55,6 +84,330 @@
         "url": "https://libbyapp.com/library/nypl",
         "key": "nypl"
       }
+    }
+  ],
+  "highlights": [],
+  "bookmarks": [
+    {
+      "timestamp": 1690514426000,
+      "percent": 0.00297509856428428,
+      "note": "The first step? Just do it, and Bluff your way through it just do it, and Bluff your way through it. I wish I had known that at the time"
+    },
+    {
+      "timestamp": 1690518778000,
+      "percent": 0.0114002953450355,
+      "note": "Knowledge, learned the hard way, combined with avoidance of error whenever and wherever possible, is the basis for success in any endeavor"
+    },
+    {
+      "timestamp": 1690518970000,
+      "percent": 0.0157570607032504,
+      "note": "\"I got rich my way, you could even say the old-fashioned way, I am making lots and lots of mistakes.\" This book is like the book by Paul and Moynihan, concerning the mistakes"
+    },
+    {
+      "timestamp": 1690519451000,
+      "percent": 0.0166200689656925,
+      "note": "\u201cIf it flies, floats, or fornicates, always rent it. It\u2019s cheaper in the long run.\u201d Pay for prostitutes rather than obtaining for yourself a wife, and rent jets and boats, since maintenance costs are so low."
+    },
+    {
+      "timestamp": 1690519564000,
+      "percent": 0.017669347296232,
+      "note": "Like Ford said, why learn all of it when you can have someone, an expert, at the push of a button\nAlso, rich people always have a certain amount of debt. Apparently, it helps reduce taxes. "
+    },
+    {
+      "timestamp": 1690519674000,
+      "percent": 0.0198582592601656,
+      "note": "I learned this confidence (of course, I only know it in theory and still act poor and have a victim mentality in my daily life\u2014hence I don\u2019t have any real, successful or failed, businesses)"
+    },
+    {
+      "timestamp": 1690577460000,
+      "percent": 0.0435686363153995,
+      "note": "\u201cIf I had to get my hands on that [100,000,000 pounds] I would borrow the money and then sell offices to pay off the debt\u201c"
+    },
+    {
+      "timestamp": 1690590719000,
+      "percent": 0.0482262584387129,
+      "note": "I want to bookmark apart earlier in the book aware he says how hard you should work, where it makes your lovers work for you, your friends hate you, and your enemies envy you, or something like that"
+    },
+    {
+      "timestamp": 1690599752000,
+      "percent": 0.0661542330483674,
+      "note": "He wrote some sort of magazines that were super small and charged the same amount as regular magazines. Easy millions. Then he also wrote about this PC fad and sold more"
+    },
+    {
+      "timestamp": 1690599877000,
+      "percent": 0.0666869306262907,
+      "note": "These are important tools (he just listed them). That self-confidence is what I lacked, that my parents didn\u2019t give me, but I have it now, so there should be nothing stopping me. I have nothing to prove"
+    },
+    {
+      "timestamp": 1690654596000,
+      "percent": 0.0774835750527212,
+      "note": "After saying, that \u201cyour youth and stamina are ebbing away,\u201c he doesn\u2019t go on to say that the main problem is that you are getting too *old,* rather, he goes on to say \u201cyou are getting too *comfortable.*\u201c"
+    },
+    {
+      "timestamp": 1690655244000,
+      "percent": 0.0899531403304193,
+      "note": "Always sue the person responsible for making you sick. Exactly the opposite of what we did when we were crashed into by that Porsche. although mom did retain someone to settle. I should\u2019ve just gotten all the medical attention that I needed then, and sued them to recuperate the losses (and the emotional damage)."
+    },
+    {
+      "timestamp": 1690655867000,
+      "percent": 0.0906038501326739,
+      "note": "He (Hawking) also has institutional backing by the time he wrote the book and made the fortune. So he had massive assistance overcoming the disability and illness"
+    },
+    {
+      "timestamp": 1690766293000,
+      "percent": 0.0993332449715751,
+      "note": "\"making money is a drug not the money and sell, but the making of it.\""
+    },
+    {
+      "timestamp": 1690769491000,
+      "percent": 0.10640577962833,
+      "note": "Literally every single thing Dad says. He\u2019s stepped back, though, dialing back his criticisms. Probably because I\u2019ve shown him these books where the authors mention the naysayers and what they say"
+    },
+    {
+      "timestamp": 1690770760000,
+      "percent": 0.111285976793821,
+      "note": "I've already figured this out. A while ago. That I \"know,\" but I don't \u201cdo.\u201d"
+    },
+    {
+      "timestamp": 1690773254000,
+      "percent": 0.139642548188571,
+      "note": "Fear of failing is the single biggest obstacle to getting rich. On another note: I just passed R Zarchi on a Tesla. You can't tell me that he wouldn't have preferred to see me in a gray jacket"
+    },
+    {
+      "timestamp": 1691187480000,
+      "percent": 0.164412227453499,
+      "note": "Dad\u2019s no longer got that in his heart. He truly wants me to succeed, inside and out"
+    },
+    {
+      "timestamp": 1691188971000,
+      "percent": 0.181611772099835,
+      "note": "Ownership is power"
+    },
+    {
+      "timestamp": 1691188994000,
+      "percent": 0.181973895263575,
+      "note": "\u201cThe division of spoils comes only when there are spoils to divide\u201d"
+    },
+    {
+      "timestamp": 1691189557000,
+      "percent": 0.198942974923638
+    },
+    {
+      "timestamp": 1691189618000,
+      "percent": 0.201076909981733,
+      "note": "Never stop searching for your luck. You\u2019re searching for an opportunity, and you\u2019re keeping your skills fresh."
+    },
+    {
+      "timestamp": 1691193987000,
+      "percent": 0.236517696519871,
+      "note": "Tennis wrote this so many years ago, but it's still rings true. And a big part of Apple success nowadays is from his use of this system. Because all Apple products have such Great support for one another and such an ecosystem, Apple is super successful."
+    },
+    {
+      "timestamp": 1691214351000,
+      "percent": 0.139356432422229,
+      "note": "\u201cI am convinced that fear of feeling in the eyes of the world is the single biggest impediment to amassing wealth\u201d"
+    },
+    {
+      "timestamp": 1691214432000,
+      "percent": 0.139769798105456,
+      "note": "See, he says it the right way. \u201cIF you shy away for any reason whatsoever, THEN you will never get started, AND THEREFORE you will never get rich.\u201c"
+    },
+    {
+      "timestamp": 1691215078000,
+      "percent": 0.151530728475309,
+      "note": "\u201cIf you want to be rich, you are not looking for a career, except as a launchpad, or as a way to infiltrate and understand a particular industry.\u201c"
+    },
+    {
+      "timestamp": 1691215701000,
+      "percent": 0.163989961014832,
+      "note": "I think Dad\u2019s finally past this point."
+    },
+    {
+      "timestamp": 1691215746000,
+      "percent": 0.16478493605825,
+      "note": "People who don\u2019t believe you when you congratulate them, are the ones you promote most and the fastest.\n\nThis means that, if I want to succeed and get the best basis for striking out on my own, or having a higher capital base, but I should not make it seem as though I believe the manager and the CEO when he says that I am doing a great job. he should understand that I don\u2019t completely believe it, and so he should keep on promoting me. And this means my pay will be higher and higher. "
+    },
+    {
+      "timestamp": 1691216691000,
+      "percent": 0.177887690408253,
+      "note": "\u201cWhoever controls a business, even by a pitiful one percent, is likely to take a great deal of more money out of it than the minority shareholders\u201c case in point: Volodya \u0412\u043e\u043b\u043e\u0434\u044f keeps control of his Macroaxis idea, and he gets hundreds of thousands in profit. The people who helped him build it? They get thousands in profit. "
+    },
+    {
+      "timestamp": 1691368898000,
+      "percent": 0.238769699958482,
+      "note": "Lol. How wrong he was, looking at the behemoth Apple has become now. Specifically because of people like him, who, while he may have been terrible at guessing, have a lot of money and like Apple\u2019s products."
+    },
+    {
+      "timestamp": 1691438901000,
+      "percent": 0.265234790627067,
+      "note": "If you take venture money, which he calls venture capitalists dolphins, make sure you can get the best legal representation money can buy. Because one little phrase might completely screw you later down the line. They might make you 1 million if you have hundred million dollar idea, but there is I like that they will take more than what they will give."
+    },
+    {
+      "timestamp": 1691439657000,
+      "percent": 0.263739800650314,
+      "note": "When you were talking about Etra Catholic,, except when it comes to to adventure capitalist should be home a little respect, except can you show me anything but uncleWhen you were talking about your campus, you should be humble and almost all respect. Except when it comes to her to a venture capitalist, you should be humble, and I respect, except when it comes to money, can you show me anything but humble, those things, exaggerating, etc. Call staying Anna exaggerating, etc. Close posting, exaggerating, etc.those things, exaggerating, etc. and post, hosting, exaggerating, etc."
+    },
+    {
+      "timestamp": 1691440652000,
+      "percent": 0.276388195301499
+    },
+    {
+      "timestamp": 1691453487000,
+      "percent": 0.246721808952472,
+      "note": "\u201cbut the losing streaks always seem to become longer, and the winning streaks, shorter\u201d this is the same thing Mom was trying to tell me"
+    },
+    {
+      "timestamp": 1691457732000,
+      "percent": 0.301254013956413,
+      "note": "Suggested #Book: Letters to my Brother by Vincent Van Gogh"
+    },
+    {
+      "timestamp": 1691457969000,
+      "percent": 0.303395333552932,
+      "note": "Possible luck-based way of becoming rich: learn VVG\u2019s path through Europe + learn how he signed his paintings + follow the path and see if you can buy a few of these paintings for a hundred dollars apiece. If just one turns out to be authentic, that\u2019s a multimillion-dollar windfall"
+    },
+    {
+      "timestamp": 1691538447000,
+      "percent": 0.309152521871115,
+      "note": "\"Assumption is the mother of all fuck ups\""
+    },
+    {
+      "timestamp": 1691538674000,
+      "percent": 0.313779482717014,
+      "note": "A big part of this book is to help you figure out whether you truly want to be rich. Because if you don't, a modicum of, contentment is better. Health is definitely far more important than wealth"
+    },
+    {
+      "timestamp": 1691711492000,
+      "percent": 0.33222575084295,
+      "note": "Highlight. Startup cashflow rules."
+    },
+    {
+      "timestamp": 1692224811000,
+      "percent": 0.589992049547614,
+      "note": "\"This \u2018getting rich\u2019 malarkey is just a game\""
+    },
+    {
+      "timestamp": 1692225113000,
+      "percent": 0.593042004307488,
+      "note": "To become rich, you must be an owner. You must own it all"
+    },
+    {
+      "timestamp": 1692319190000,
+      "percent": 0.595076570994917,
+      "note": "To become rich, every single percentage point of everything you own is worth fighting for tooth and claw"
+    },
+    {
+      "timestamp": 1692319381000,
+      "percent": 0.59823647956647,
+      "note": "Please think about this if you want to get rich: \"ownership is not the most important thing. It is*the only* thing that counts.\""
+    },
+    {
+      "timestamp": 1692328694000,
+      "percent": 0.603821549175361,
+      "note": "\u201cthere were no recriminations.\" This means that it doesn't hurt to ask. While he's going on and on about not giving away your share,"
+    },
+    {
+      "timestamp": 1692590480000,
+      "percent": 0.617243298738456,
+      "note": "\"A partnership is *not* a marriage. In a marriage, you should be willing to die for your partner; to share everything; to kill for them if you have to.\""
+    },
+    {
+      "timestamp": 1692591381000,
+      "percent": 0.625835419781317,
+      "note": "Mexican shootout: each of you bids for the entire company, and promises to buy the company if their bid beats everyone else's. If you're on minority shareholder, it's good for you; if you're a majority shareholder, it's bad for you"
+    },
+    {
+      "timestamp": 1692684067000,
+      "percent": 0.666580045750164,
+      "note": "\"I only started to get rich when I began to delegate, and to ease up on my work schedule.\u201d"
+    },
+    {
+      "timestamp": 1692720353000,
+      "percent": 0.68228384231124,
+      "note": "#Lesson: keep my phone on silent, so it doesn't squawk in the middle of a meeting (unless, of course, I am the owner); and don't use the phone surreptitiously (Or laptop, like I've done with J)"
+    },
+    {
+      "timestamp": 1692724803000,
+      "percent": 0.698974583836686,
+      "note": "Where? Where can you see how bishops, archbishops, and higher ups (does this mean the pope?) lived?"
+    },
+    {
+      "timestamp": 1692724874000,
+      "percent": 0.699073531035958,
+      "note": "NTS: religions do really rival multinational corporations, not just in terms of assets, but also we have the tried and true \u201chere\u2019s a free psalm/Bible/etc.\u201d method attributed to drug cartels these days. And they have salesmen known as missionaries."
+    },
+    {
+      "timestamp": 1692740698000,
+      "percent": 0.75125905327213,
+      "note": "But this goes against what he was saying earlier about how ownership is important. Or did I miss what he was saying and he just said to sell it as soon as possible when you\u2019re ready to sell"
+    },
+    {
+      "timestamp": 1692740809000,
+      "percent": 0.751965638479196,
+      "note": "\u201cSelf-imposed misery is a kind of madness. The cure is to get out\u201d"
+    },
+    {
+      "timestamp": 1692805507000,
+      "percent": 0.76980603751719,
+      "note": "So they really did get lucky. Everything else he says is secondary, but, the main thing is that he got lucky to make the right book right before Lee died"
+    },
+    {
+      "timestamp": 1692805578000,
+      "percent": 0.772313411210451,
+      "note": "However, he was right in this case here. He figured out that he owned the rights, so he made far more money than he would have otherwise"
+    },
+    {
+      "timestamp": 1692805791000,
+      "percent": 0.778864619916895,
+      "note": "This, however, was pure skill. \u201cLuck is when opportunity meets preparation.\u201d Kind of. Success was when the amazing blind luck [of Lee passing away after they did their interviews] combined with their hard, successful, timely work [of creating all the merchandise and selling it to fans] and decent marketing"
+    },
+    {
+      "timestamp": 1692806779000,
+      "percent": 0.796622020112366
+    },
+    {
+      "timestamp": 1692806794000,
+      "percent": 0.796741380085155
+    },
+    {
+      "timestamp": 1692807006000,
+      "percent": 0.803299018674866,
+      "note": "I should include failures in my CV"
+    },
+    {
+      "timestamp": 1692807723000,
+      "percent": 0.808340412171522,
+      "note": "Yes, but it would\u2019ve taken him far more time"
+    },
+    {
+      "timestamp": 1692894661000,
+      "percent": 0.872519800635994,
+      "note": "I should read Homer\u2019s *The Odyssey* #Book"
+    },
+    {
+      "timestamp": 1692894985000,
+      "percent": 0.883041055127559,
+      "note": "Dennis wants me to bookmark this previous part. The part that says that it\u2019s not going to make you happy or anything similar"
+    },
+    {
+      "timestamp": 1692895211000,
+      "percent": 0.886106228213769,
+      "note": "Am I Japanese? Maybe I should tell Mom this one quote. Or maybe I should do something about it. I can tell her this after"
+    },
+    {
+      "timestamp": 1692895371000,
+      "percent": 0.889362444643864,
+      "note": "Lol. THIS is what I\u2019d have to tell Mom. He\u2019s literally written it down."
+    },
+    {
+      "timestamp": 1692895882000,
+      "percent": 0.903794556300781,
+      "note": "That\u2019s the same thing Chassidus teaches"
+    },
+    {
+      "timestamp": 1692975628000,
+      "percent": 0.884965836471867,
+      "note": "For Dad"
     }
   ]
 }

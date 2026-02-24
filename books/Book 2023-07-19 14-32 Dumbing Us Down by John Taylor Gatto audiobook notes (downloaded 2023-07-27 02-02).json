@@ -16,38 +16,23 @@
     "author": "John Taylor Gatto",
     "publisher": "Big Happy Family, LLC",
     "isbn": "9780986657627",
-    "percent": 0.74490640722908
+    "percent": 1.00000065142343
   },
   "bookmarks": [
     {
-      "timestamp": 1690255071000,
-      "percent": 0.744439941064952,
-      "note": "Why do \"people\" (central planners) hate the dialectic? Because it gets in the way of officially broadcasting one right way to do things"
+      "timestamp": 1689886900000,
+      "percent": 0.0990446151198907,
+      "note": "That's actually a very important. It's very true. Bells essentially condition students that nothing is important enough to care about enough to keep working on it after class ends instead of going on to the next class"
     },
     {
-      "timestamp": 1689909032000,
-      "percent": 0.763378985810111,
-      "note": "2. So I still haven’t understood what he means by dialectical thinking. 1. I am your stand why are you so much slower. There is so much that he has said in the last few pages that I just skipped over, but I would have slowed down and spent a long time if I were reading."
+      "timestamp": 1689887083000,
+      "percent": 0.108056242999519,
+      "note": "Wow. \u201cThis allows them to \u2019deceive\u2019 me, because this conditions them to depend on my favors.\u201d Powerful."
     },
     {
-      "timestamp": 1689907588000,
-      "percent": 0.676861052760737,
-      "note": "Does he really think this way? So seriously against this, so one-track-minded? Probably not. #Lesson: But he's writing a book. And the book should only have one point."
-    },
-    {
-      "timestamp": 1689907401000,
-      "percent": 0.657421589670986,
-      "note": "So this guy is Jewish, or has Jewish friends…"
-    },
-    {
-      "timestamp": 1689901225000,
-      "percent": 0.636853258393791,
-      "note": "I have an issue. I was taught not to lie. That's kept me from getting a job. I need to learn to throw focus away from what I don't know onto what I do know"
-    },
-    {
-      "timestamp": 1689899037000,
-      "percent": 0.4106900907164,
-      "note": ". This guy's a good writer."
+      "timestamp": 1689888116000,
+      "percent": 0.205855916960326,
+      "note": "What are these dialectic and heuristic methods of thinking? Heuristic I get. That\u2019s like that theorem that speeds up your calculation of quadratic roots"
     },
     {
       "timestamp": 1689889678000,
@@ -55,26 +40,66 @@
       "note": "\"The richer the kid, of course, the less television he watches\""
     },
     {
-      "timestamp": 1689888116000,
-      "percent": 0.205855916960326,
-      "note": "What are these dialectic and heuristic methods of thinking? Heuristic I get. That’s like that theorem that speeds up your calculation of quadratic roots"
+      "timestamp": 1689899037000,
+      "percent": 0.4106900907164,
+      "note": "\uf602. This guy's a good writer."
     },
     {
-      "timestamp": 1689887083000,
-      "percent": 0.108056242999519,
-      "note": "Wow. “This allows them to ’deceive’ me, because this conditions them to depend on my favors.” Powerful."
+      "timestamp": 1689901225000,
+      "percent": 0.636853258393791,
+      "note": "I have an issue. I was taught not to lie. That's kept me from getting a job. I need to learn to throw focus away from what I don't know onto what I do know"
     },
     {
-      "timestamp": 1689886900000,
-      "percent": 0.0990446151198907,
-      "note": "That's actually a very important. It's very true. Bells essentially condition students that nothing is important enough to care about enough to keep working on it after class ends instead of going on to the next class"
+      "timestamp": 1689907401000,
+      "percent": 0.657421589670986,
+      "note": "So this guy is Jewish, or has Jewish friends\u2026"
+    },
+    {
+      "timestamp": 1689907588000,
+      "percent": 0.676861052760737,
+      "note": "Does he really think this way? So seriously against this, so one-track-minded? Probably not. #Lesson: But he's writing a book. And the book should only have one point."
+    },
+    {
+      "timestamp": 1689909032000,
+      "percent": 0.763378985810111,
+      "note": "2. So I still haven\u2019t understood what he means by dialectical thinking. 1. I am your stand why are you so much slower. There is so much that he has said in the last few pages that I just skipped over, but I would have slowed down and spent a long time if I were reading."
+    },
+    {
+      "timestamp": 1690255071000,
+      "percent": 0.744439941064952,
+      "note": "Why do \"people\" (central planners) hate the dialectic? Because it gets in the way of officially broadcasting one right way to do things"
+    },
+    {
+      "timestamp": 1690504815000,
+      "percent": 0.889473955390034,
+      "note": "\u201cEducation and schooling are, as we all have experienced, mutually exclusive terms.\u201d"
+    },
+    {
+      "timestamp": 1690504913000,
+      "percent": 0.892730605054721,
+      "note": "Note to self: #parenting remember that anymore send is 50/100, or .50. So, when I'm teaching my kid, in order for him to be able to quickly calculate 50% of 36, he needs to know that that just means 36 divided by two"
+    },
+    {
+      "timestamp": 1690511762000,
+      "percent": 0.973379493942959,
+      "note": "This is exactly what I thought. Because I was forced to go to school, I was missing out on valuable time that I could be using to study things that actually interested me"
     }
   ],
   "circulation": [
     {
+      "timestamp": 1691616760000,
+      "activity": "Returned",
+      "details": "on due date",
+      "library": {
+        "text": "Contra Costa County Library",
+        "url": "https://libbyapp.com/library/ccc",
+        "key": "ccc"
+      }
+    },
+    {
       "timestamp": 1689802360803,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "Contra Costa County Library",
         "url": "https://libbyapp.com/library/ccc",
@@ -100,5 +125,6 @@
         "key": "ccc"
       }
     }
-  ]
+  ],
+  "highlights": []
 }

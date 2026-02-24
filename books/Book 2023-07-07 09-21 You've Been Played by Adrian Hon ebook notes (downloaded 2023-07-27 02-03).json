@@ -20,6 +20,24 @@
   },
   "circulation": [
     {
+      "timestamp": 1696536379000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1693843459000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
       "timestamp": 1688746874000,
       "activity": "Borrowed",
       "details": " 21 days ",
@@ -32,12 +50,14 @@
     {
       "timestamp": 1687108227827,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "San Francisco Public Library",
         "url": "https://libbyapp.com/library/sfpl",
         "key": "sfpl"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

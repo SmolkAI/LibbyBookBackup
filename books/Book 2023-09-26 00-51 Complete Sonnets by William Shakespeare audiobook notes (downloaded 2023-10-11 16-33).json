@@ -14,13 +14,14 @@
       "titleId": "76744"
     },
     "author": "William Shakespeare",
-    "publisher": "Telltale Weekly"
+    "publisher": "Telltale Weekly",
+    "percent": 0.265535658954357
   },
   "circulation": [
     {
       "timestamp": 1695714706599,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "New York Public Library",
         "url": "https://libbyapp.com/library/nypl",
@@ -37,5 +38,7 @@
         "key": "nypl"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

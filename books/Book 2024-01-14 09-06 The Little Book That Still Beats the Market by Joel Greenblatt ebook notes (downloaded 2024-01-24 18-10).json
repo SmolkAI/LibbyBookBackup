@@ -19,6 +19,52 @@
   },
   "circulation": [
     {
+      "timestamp": 1718412358000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Brooklyn Public Library",
+        "url": "https://libbyapp.com/library/brooklyn",
+        "key": "brooklyn"
+      }
+    },
+    {
+      "timestamp": 1710177183000,
+      "activity": "Returned",
+      "details": "on due date",
+      "library": {
+        "text": "Brooklyn Public Library",
+        "url": "https://libbyapp.com/library/brooklyn",
+        "key": "brooklyn"
+      }
+    },
+    {
+      "timestamp": 1709917973463,
+      "activity": "Hold expired",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1708362783000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Brooklyn Public Library",
+        "url": "https://libbyapp.com/library/brooklyn",
+        "key": "brooklyn"
+      }
+    },
+    {
+      "timestamp": 1706861320843,
+      "activity": "Placed on hold",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
       "timestamp": 1705252003000,
       "activity": "Borrowed",
       "details": " 21 days ",
@@ -40,7 +86,7 @@
     {
       "timestamp": 1701281459436,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "New York Public Library",
         "url": "https://libbyapp.com/library/nypl",
@@ -56,5 +102,7 @@
         "key": "nypl"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

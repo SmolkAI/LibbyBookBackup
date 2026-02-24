@@ -20,383 +20,9 @@
   },
   "bookmarks": [
     {
-      "timestamp": 1648615497000,
-      "percent": 0.522076895563614,
-      "note": "Vagus nerve stimulation enhances memory. So I can eat or activate my sex drive in such a way that it helps me remember"
-    },
-    {
-      "timestamp": 1648587602000,
-      "percent": 0.520854742983138,
-      "note": "Norepinephrine enhances memory, especially during emotional times"
-    },
-    {
-      "timestamp": 1648580208000,
-      "percent": 0.474581209482107,
-      "note": "A1 caseine protein in milk is bad for you: gastrointestinal inflammation, slower thinking, more errors on info processing test"
-    },
-    {
-      "timestamp": 1648579974000,
-      "percent": 0.464210416460143,
-      "note": "Dairy and gluten (Celiac disease) intolerance both linked to exacerbating ADHD symptoms"
-    },
-    {
-      "timestamp": 1648579435000,
-      "percent": 0.437750318301414,
-      "note": "Black pepper + turmeric to activate the turmeric"
-    },
-    {
-      "timestamp": 1646628707000,
-      "percent": 0.4369403145727,
-      "note": "Turmeric (curcumin) + pinch black pepper\n\n200mg Ginkgo bullova can help w/ anxiety, depression, PTSD"
-    },
-    {
-      "timestamp": 1646628559000,
-      "percent": 0.433031320355513,
-      "note": "Vitamin E appears to help prevent brain damage\nSources: one tablespoon of wheat germ oil, sunflower seeds, dried roasted almonds, hazelnuts, peanut butter, broccoli, spinach, raw tomatoes"
-    },
-    {
-      "timestamp": 1646628400000,
-      "percent": 0.431184701967455,
-      "note": "Free radicals can “cause stress“ in the brain"
-    },
-    {
-      "timestamp": 1646627023000,
-      "percent": 0.430259956282162,
-      "note": "Farmed, fatty fish > wild fish\nJust make sure this is actually scientifically based, and not politically motivated"
-    },
-    {
-      "timestamp": 1646552331000,
-      "percent": 0.421319731215282,
-      "note": "Eat blueberries (1/2–1 cup per day)\nBlueberry-enriched diet:\n^ serotonin levels in the brain\nReduced free radicals (and inflammation)\nRaised levels of SCAR-2 (decreased in PTSD patients and suicide victims)"
-    },
-    {
-      "timestamp": 1646552118000,
-      "percent": 0.416571967975165,
-      "note": "Glutamic acid -> glutamate [-> MSG]\nSources (bad):\nSeaweed, cheeses, soy sauce, tomatoes, high-protein foods (meats/seafood)"
-    },
-    {
-      "timestamp": 1646551985000,
-      "percent": 0.415956475804373,
-      "note": "Sources (bad) of MSG/glutamates:\nFish/oyster/tomato sauce, Parmesan cheese, miso, chips, ready-to-eat meals, mushrooms, spinach\nTomato sauce = pizza :("
-    },
-    {
-      "timestamp": 1646551936000,
-      "percent": 0.416353975992125,
-      "note": "Low glutamate diet -> helps w/ lower PTSD [correlation]"
-    },
-    {
-      "timestamp": 1646292211000,
-      "percent": 0.402756788120629,
-      "note": "Banana increases blood glucose more than an apple"
-    },
-    {
-      "timestamp": 1646291614000,
-      "percent": 0.391536195241579,
-      "note": "Relisten to chapter 4 and include my notes. Like that thought I had about how she’s mentioning the noise study with those two chemicals you might want to add"
-    },
-    {
-      "timestamp": 1646282027000,
-      "percent": 0.345414078560528,
-      "note": "Extracts of passionflower / guava and combinations of AAs (e.g. Lys/Arg) reduce anxiety.\nPF increases GABA, decreasing anxiety, and doesn’t cause sedation."
-    },
-    {
-      "timestamp": 1646281703000,
-      "percent": 0.347429635415103,
-      "note": "Plavix is a blood thinner.\nPlavix & MAOIs don’t do well with passionflower extract (90 mg per day)"
-    },
-    {
-      "timestamp": 1646281311000,
-      "percent": 0.334340504355364,
-      "note": "Note: glass absorbs all ultraviolet B light/radiation, so light streaming in though the window doesn’t provide the vitamin D we need."
-    },
-    {
-      "timestamp": 1646280539000,
-      "percent": 0.334151242197619,
-      "note": "Vitamin D sources\nSun exposure, fortified milk, egg yolk, salmon, sun-dried mushrooms, cod liver oil"
-    },
-    {
-      "timestamp": 1646280381000,
-      "percent": 0.332252058869948,
-      "note": "Note:\nVitamin D = neurosteroid\nDecreases inflammation & toxic destruction of cells\nControls release of nerve growth factor -> hypocampal (HPA :. Anxiety) + cortical neurons"
-    },
-    {
-      "timestamp": 1646280271000,
-      "percent": 0.331104142739278,
-      "note": "Vitamin D pill every two weeks, for women with Vit D deficiency and diabetes, helped reduce anxiety"
-    },
-    {
-      "timestamp": 1646280068000,
-      "percent": 0.329898234924216,
-      "note": "Chickpeas = tryptophan\nWhole wheat pita bread provides carbs to (probably) help increase trp absorption from hummus\nOur avocado hummus on whole grain toast (for breakfast)"
-    },
-    {
-      "timestamp": 1646279895000,
-      "percent": 0.326059752920222,
-      "note": "Trp (purified) = serotonin precursor\nBut W isn’t prioritized by the body. So you actually have to absorb it properly"
-    },
-    {
-      "timestamp": 1646279240000,
-      "percent": 0.315811682361863,
-      "note": "Plain yogurt with active cultures, kimchi\nImprove cognitive faculties, e.g. memory, and slow cognitive decline. Mechanism not yet known."
-    },
-    {
-      "timestamp": 1646279126000,
-      "percent": 0.315616638770139,
-      "note": "Vegetable oil -> canola oil"
-    },
-    {
-      "timestamp": 1646278891000,
-      "percent": 0.311712078167967,
-      "note": "Omega-3 (icosapentanoic acid) -> less anxiety, less stress (measured by IL-6)"
-    },
-    {
-      "timestamp": 1646278619000,
-      "percent": 0.30823924526146,
-      "note": "Brain inflammation -> anxiety\nFiber decreases inflammation\nBeans, brown rice, berries, bran, baked potato (w/ skin on)\nPears, apples, bananas, almonds, broccoli, Brussels sprouts, carrots, walnuts, oats, buckwheat, pearl barley, etc."
-    },
-    {
-      "timestamp": 1646278578000,
-      "percent": 0.306784877660978,
-      "note": "Plus you eat fiber more slowly"
-    },
-    {
-      "timestamp": 1646278393000,
-      "percent": 0.304483370372418,
-      "note": "Anxiety, foods to add: dietary fiber\nNote: if it can be broken down by bacteria, fiber is called “fermentable dietary fiber”—promotes growth of good gut bacteria (e.g. pivitobacterium? and lactobacillus increase, alleviating anxiety)"
-    },
-    {
-      "timestamp": 1646278173000,
-      "percent": 0.297985747958324,
-      "note": "Celiac disease: gluten causes… anxiety? Pain?"
-    },
-    {
-      "timestamp": 1646278013000,
-      "percent": 0.295624546477207,
-      "note": "Heavy drinkers\nMen: 14/wk, or 4 times once per month\nWomen: 7/wk, or 3"
-    },
-    {
-      "timestamp": 1646277725000,
-      "percent": 0.29448957650238,
-      "note": "Note: social anxiety disorder > quadruples risk of alcohol use disorder"
-    },
-    {
-      "timestamp": 1646277690000,
-      "percent": 0.29327519161541,
-      "note": "Anxious people who drink regularly sleep more poorly"
-    },
-    {
-      "timestamp": 1646277636000,
-      "percent": 0.293049538345625,
-      "note": "Morning after, mild to moderate alcohol withdrawal: guilty, jittery, jumping out of skin"
-    },
-    {
-      "timestamp": 1646277455000,
-      "percent": 0.290889516579412,
-      "note": "Starbucks Venti = 475mg\nNespresso capsule: 1oz coffee w/ only 50–80mg"
-    },
-    {
-      "timestamp": 1646277316000,
-      "percent": 0.289788135671936,
-      "note": "Effect on anxiety\n<100mg: no effect\n100–400mg: a little under 50% of studies (9/21) show no effect, 12/21 show significant increases\n>400mg: bad"
-    },
-    {
-      "timestamp": 1646277208000,
-      "percent": 0.288532358555189,
-      "note": "Caffeine activates (thereby overstimulating) midbrain periacqueductal gray matter"
-    },
-    {
-      "timestamp": 1646276360000,
-      "percent": 0.273415717614795,
-      "note": "2017: forts rich in say fats and fructose increase anxiety-like behaviors in rats\nLower calorie diet in mice <-> decrease anxiety, improve blood flow"
-    },
-    {
-      "timestamp": 1646276309000,
-      "percent": 0.272723186949509,
-      "note": "2016 — Sophie — rats on high fat diet more prone to diabetes and anxiety"
-    },
-    {
-      "timestamp": 1646276103000,
-      "percent": 0.271238919049368,
-      "note": "Foods to keep out of your diet:\nWestern diet\nBad fats (saturated, trans, PUFAs like vegetable oil used for deep frying), high GI carbs (fried foods, sweetened (esp with HFCS) drinks, and lots of red meat"
-    },
-    {
-      "timestamp": 1646275077000,
-      "percent": 0.235974441787808,
-      "note": "Norwegian diet: canola oil instead of olive oil"
-    },
-    {
-      "timestamp": 1646202046000,
-      "percent": 0.240751360480261,
-      "note": "Review these next three minutes. Depression-fighting foods cheat sheet:"
-    },
-    {
-      "timestamp": 1646201761000,
-      "percent": 0.239137985710893,
-      "note": "Wait, what choices did he make during the day that led to his no longer craving ice cream or cookies at night?"
-    },
-    {
-      "timestamp": 1646200405000,
-      "percent": 0.208081186442826,
-      "note": "Oregano (carvacrol) in animals helps against depression\nUsed to marinate olives and feta cheese\nEaten on oven-roasted vegetable"
-    },
-    {
-      "timestamp": 1646200084000,
-      "percent": 0.205857285151483,
-      "note": "Turmeric (2% curcumin by weight = 136 mg per teaspoon turmeric)\nEffective dose against depression 500mg—1g curcumin = 5–10 teaspoons of turmeric per day\n\nOr use less, and use it with black pepper, because piperine increases curcumin absorption by 2,000%"
-    },
-    {
-      "timestamp": 1646199941000,
-      "percent": 0.201611655413465,
-      "note": "Saffron reduces depression symptoms\n15 mg of saffron is like 20 mg of Prozac\nWe don’t know it’s mechanism of action (MOA)\nIncreases glutamate and dopamine\nMore expensive than gold per pound\nStrong taste"
-    },
-    {
-      "timestamp": 1646199750000,
-      "percent": 0.200047014940338,
-      "note": "Spices: antioxidant properties (fighting off free radicals, preventing oxidative stress)* look up the mechanism again\nAntidepressant"
-    },
-    {
-      "timestamp": 1646199682000,
-      "percent": 0.198962127080716,
-      "note": "Selenium improves mood scores\nBrazil (?) nuts"
-    },
-    {
-      "timestamp": 1646199630000,
-      "percent": 0.198372030656728,
-      "note": "Zinc sources:\nSeafood (esp. cooked oysters), lean beef, poultry. Also a bit in beans/nuts/whole grains"
-    },
-    {
-      "timestamp": 1646199583000,
-      "percent": 0.198188940091083,
-      "note": "Zinc -> lower brain inflammation -> lower risk of depression / depressive symptoms"
-    },
-    {
-      "timestamp": 1646199494000,
-      "percent": 0.197151438708737,
-      "note": "Potassium improves mood, but not as clear\nSweet potatoes, bananas, mushrooms, oranges, peas, cucumbers"
-    },
-    {
-      "timestamp": 1646199441000,
-      "percent": 0.19611358263719,
-      "note": "Magnesium sources:\nAvocados, nuts, seeds, legumes whole grains, omega-3 rich fish (salmon, mackerel)"
-    },
-    {
-      "timestamp": 1646199412000,
-      "percent": 0.195464891557168,
-      "note": "Magnesium deficiency -> major depression"
-    },
-    {
-      "timestamp": 1646199269000,
-      "percent": 0.19471117700468,
-      "note": "Iron sources:\nShellfish, lean red meats & organ meats (in moderation), legumes, pumpkin seeds, broccoli, dark chocolate (sweet? in moderation)"
-    },
-    {
-      "timestamp": 1646199181000,
-      "percent": 0.194501449280027,
-      "note": "Iron: covering that protects neurons, controls synthesis of mood chemicals/pathway, large amount of iron in basal ganglia (BG)"
-    },
-    {
-      "timestamp": 1646199058000,
-      "percent": 0.19290311333279,
-      "note": "Vitamin C: citrus, cantaloupe, strawberries, broccoli/cauliflower/Brussels sprouts"
-    },
-    {
-      "timestamp": 1646199008000,
-      "percent": 0.192345364563948,
-      "note": "Vitamin C: regulation of NT synthesis"
-    },
-    {
-      "timestamp": 1646198970000,
-      "percent": 0.191923319883474,
-      "note": "Vitamin A foods\nSweet potatoes, carrots, spinach, black-eyed peas"
-    },
-    {
-      "timestamp": 1646198847000,
-      "percent": 0.191185566345038,
-      "note": "In MS patients, vitamin A can improve fatigue & depression.\nBut too much (more than you get from foods) vitamin A-derived retinoic acid has the opposite effect"
-    },
-    {
-      "timestamp": 1646198752000,
-      "percent": 0.190872021091203,
-      "note": "B1/B6 mood regulation \nVitamin A helps with e.g. elongation and adaptation (specialization?) of neutrons"
-    },
-    {
-      "timestamp": 1646198444000,
-      "percent": 0.188977094033946,
-      "note": "⬆️ Folate -> more hippocampal cells (better memory to cope w/ depression and less depression)\nAnd\nFolate appears to help w/ serotonin synthesis"
-    },
-    {
-      "timestamp": 1646198254000,
-      "percent": 0.187039249583348,
-      "note": "B12 deficiency -> Folate (B9) deficiency -> loss of (esp. hippocampal) brain cells (ie hippocampal atrophy) -> depression"
-    },
-    {
-      "timestamp": 1646198163000,
-      "percent": 0.185875869003506,
-      "note": "Replace plain vegetable oil w/ canola oil. Healthier; low omega-6:3 ratio = 2:1"
-    },
-    {
-      "timestamp": 1646197793000,
-      "percent": 0.181459633759724,
-      "note": "Omega-6 to Omega-3\nAmerican diet: 15:1\nIdeal ratio: 4:1\n\nCut down on (O6) full-fat cheese, high-fat cuts of red meat, corn oil, palm oil\nEat more fatty fish (spec. Cold-water fatty fish: salmon/mackerel/tuna/herring/sardines is better than bass/tilapia/cod/shellfish, walnuts, vegetable oil, dark,leafy vegetables\n\nFarmed fish usually more O3 than wild fish. Fish eat phytoplankton eats micro algae\n\nGrass-fed beef > commercial beef\nAlphalinolenic acid in edamame, walnuts, chia seeds"
-    },
-    {
-      "timestamp": 1646169072000,
-      "percent": 0.183278834672531,
-      "note": "We have too many omega-6s, so we need more omega-3’s to even out the 6/3 balance for our bodies. This is found well in fish"
-    },
-    {
-      "timestamp": 1646166689000,
-      "percent": 0.174476158077865,
-      "note": "Nitrates (preservative, and color): If you have to eat them (salami/sausages), try to find meats with buckwheat flour as a filler, which has antioxidants"
-    },
-    {
-      "timestamp": 1646166566000,
-      "percent": 0.173577020952897,
-      "note": "Corn/sunflower/safflower oil in moderation may be ok. In excess, they cause an imbalance in omega-3/omega-6 fatty acids (FAs), impacting emotional regulation -> depression"
-    },
-    {
-      "timestamp": 1646166383000,
-      "percent": 0.171276613200861,
-      "note": "Trans-fats linked to depression. Olive oil is good. MUFAs should make up the majority of fats in your diet. MUFAs: olive oil, nuts (almonds, walnuts), nut butters (almond/cashew butter), avocados\nMono-/poly unsaturated fats (MUFA/PUFA) negatively correlated with depression. Trans fats are banned by the FDA, but there’s a transition period."
-    },
-    {
-      "timestamp": 1646166195000,
-      "percent": 0.165342946616628,
-      "note": "Japanese study: reduce fried food consumption -> reduce lifetime depression incidence"
-    },
-    {
-      "timestamp": 1646166159000,
-      "percent": 0.163747696465441,
-      "note": "Myloperoxidase -> depression"
-    },
-    {
-      "timestamp": 1646166107000,
-      "percent": 0.162545867576193,
-      "note": "Aspartame and sucrose may be causing/worsening depression"
-    },
-    {
-      "timestamp": 1646078776000,
-      "percent": 0.155287153074225
-    },
-    {
-      "timestamp": 1646072862000,
-      "percent": 0.134318069376667,
-      "note": "Review: probiotics break down prebiotics"
-    },
-    {
-      "timestamp": 1646072318000,
-      "percent": 0.111221808132925,
-      "note": "Grapefruit interacts with many drugs/meds"
-    },
-    {
-      "timestamp": 1645511029000,
-      "percent": 0.0593095675873552,
-      "note": "Serotonin deficient if depressed or anxious. [which is why I need sleep]"
-    },
-    {
-      "timestamp": 1645510707000,
-      "percent": 0.0536366685038237,
-      "note": "Vagus nerve: CNS to gut. Then after penetrating gut wall, it spreads out into many nerves"
+      "timestamp": 1645510367000,
+      "percent": 0.0480431843324345,
+      "note": "Woah. I just deleted E7 from my Bluetooth devices, and marked these WH-CH700Ns as Device Type: Headphones, and they got way louder right away. Perfect, problem fixed."
     },
     {
       "timestamp": 1645510604000,
@@ -404,9 +30,383 @@
       "note": "100m-500m neutral crest cells of CNS also form the enteric NS"
     },
     {
-      "timestamp": 1645510367000,
-      "percent": 0.0480431843324345,
-      "note": "Woah. I just deleted E7 from my Bluetooth devices, and marked these WH-CH700Ns as Device Type: Headphones, and they got way louder right away. Perfect, problem fixed."
+      "timestamp": 1645510707000,
+      "percent": 0.0536366685038237,
+      "note": "Vagus nerve: CNS to gut. Then after penetrating gut wall, it spreads out into many nerves"
+    },
+    {
+      "timestamp": 1645511029000,
+      "percent": 0.0593095675873552,
+      "note": "Serotonin deficient if depressed or anxious. [which is why I need sleep]"
+    },
+    {
+      "timestamp": 1646072318000,
+      "percent": 0.111221808132925,
+      "note": "Grapefruit interacts with many drugs/meds"
+    },
+    {
+      "timestamp": 1646072862000,
+      "percent": 0.134318069376667,
+      "note": "Review: probiotics break down prebiotics"
+    },
+    {
+      "timestamp": 1646078776000,
+      "percent": 0.155287153074225
+    },
+    {
+      "timestamp": 1646166107000,
+      "percent": 0.162545867576193,
+      "note": "Aspartame and sucrose may be causing/worsening depression"
+    },
+    {
+      "timestamp": 1646166159000,
+      "percent": 0.163747696465441,
+      "note": "Myloperoxidase -> depression"
+    },
+    {
+      "timestamp": 1646166195000,
+      "percent": 0.165342946616628,
+      "note": "Japanese study: reduce fried food consumption -> reduce lifetime depression incidence"
+    },
+    {
+      "timestamp": 1646166383000,
+      "percent": 0.171276613200861,
+      "note": "Trans-fats linked to depression. Olive oil is good. MUFAs should make up the majority of fats in your diet. MUFAs: olive oil, nuts (almonds, walnuts), nut butters (almond/cashew butter), avocados\nMono-/poly unsaturated fats (MUFA/PUFA) negatively correlated with depression. Trans fats are banned by the FDA, but there\u2019s a transition period."
+    },
+    {
+      "timestamp": 1646166566000,
+      "percent": 0.173577020952897,
+      "note": "Corn/sunflower/safflower oil in moderation may be ok. In excess, they cause an imbalance in omega-3/omega-6 fatty acids (FAs), impacting emotional regulation -> depression"
+    },
+    {
+      "timestamp": 1646166689000,
+      "percent": 0.174476158077865,
+      "note": "Nitrates (preservative, and color): If you have to eat them (salami/sausages), try to find meats with buckwheat flour as a filler, which has antioxidants"
+    },
+    {
+      "timestamp": 1646169072000,
+      "percent": 0.183278834672531,
+      "note": "We have too many omega-6s, so we need more omega-3\u2019s to even out the 6/3 balance for our bodies. This is found well in fish"
+    },
+    {
+      "timestamp": 1646197793000,
+      "percent": 0.181459633759724,
+      "note": "Omega-6 to Omega-3\nAmerican diet: 15:1\nIdeal ratio: 4:1\n\nCut down on (O6) full-fat cheese, high-fat cuts of red meat, corn oil, palm oil\nEat more fatty fish (spec. Cold-water fatty fish: salmon/mackerel/tuna/herring/sardines is better than bass/tilapia/cod/shellfish, walnuts, vegetable oil, dark,leafy vegetables\n\nFarmed fish usually more O3 than wild fish. Fish eat phytoplankton eats micro algae\n\nGrass-fed beef > commercial beef\nAlphalinolenic acid in edamame, walnuts, chia seeds"
+    },
+    {
+      "timestamp": 1646198163000,
+      "percent": 0.185875869003506,
+      "note": "Replace plain vegetable oil w/ canola oil. Healthier; low omega-6:3 ratio = 2:1"
+    },
+    {
+      "timestamp": 1646198254000,
+      "percent": 0.187039249583348,
+      "note": "B12 deficiency -> Folate (B9) deficiency -> loss of (esp. hippocampal) brain cells (ie hippocampal atrophy) -> depression"
+    },
+    {
+      "timestamp": 1646198444000,
+      "percent": 0.188977094033946,
+      "note": "\u2b06\ufe0f Folate -> more hippocampal cells (better memory to cope w/ depression and less depression)\nAnd\nFolate appears to help w/ serotonin synthesis"
+    },
+    {
+      "timestamp": 1646198752000,
+      "percent": 0.190872021091203,
+      "note": "B1/B6 mood regulation \nVitamin A helps with e.g. elongation and adaptation (specialization?) of neutrons"
+    },
+    {
+      "timestamp": 1646198847000,
+      "percent": 0.191185566345038,
+      "note": "In MS patients, vitamin A can improve fatigue & depression.\nBut too much (more than you get from foods) vitamin A-derived retinoic acid has the opposite effect"
+    },
+    {
+      "timestamp": 1646198970000,
+      "percent": 0.191923319883474,
+      "note": "Vitamin A foods\nSweet potatoes, carrots, spinach, black-eyed peas"
+    },
+    {
+      "timestamp": 1646199008000,
+      "percent": 0.192345364563948,
+      "note": "Vitamin C: regulation of NT synthesis"
+    },
+    {
+      "timestamp": 1646199058000,
+      "percent": 0.19290311333279,
+      "note": "Vitamin C: citrus, cantaloupe, strawberries, broccoli/cauliflower/Brussels sprouts"
+    },
+    {
+      "timestamp": 1646199181000,
+      "percent": 0.194501449280027,
+      "note": "Iron: covering that protects neurons, controls synthesis of mood chemicals/pathway, large amount of iron in basal ganglia (BG)"
+    },
+    {
+      "timestamp": 1646199269000,
+      "percent": 0.19471117700468,
+      "note": "Iron sources:\nShellfish, lean red meats & organ meats (in moderation), legumes, pumpkin seeds, broccoli, dark chocolate (sweet? in moderation)"
+    },
+    {
+      "timestamp": 1646199412000,
+      "percent": 0.195464891557168,
+      "note": "Magnesium deficiency -> major depression"
+    },
+    {
+      "timestamp": 1646199441000,
+      "percent": 0.19611358263719,
+      "note": "Magnesium sources:\nAvocados, nuts, seeds, legumes whole grains, omega-3 rich fish (salmon, mackerel)"
+    },
+    {
+      "timestamp": 1646199494000,
+      "percent": 0.197151438708737,
+      "note": "Potassium improves mood, but not as clear\nSweet potatoes, bananas, mushrooms, oranges, peas, cucumbers"
+    },
+    {
+      "timestamp": 1646199583000,
+      "percent": 0.198188940091083,
+      "note": "Zinc -> lower brain inflammation -> lower risk of depression / depressive symptoms"
+    },
+    {
+      "timestamp": 1646199630000,
+      "percent": 0.198372030656728,
+      "note": "Zinc sources:\nSeafood (esp. cooked oysters), lean beef, poultry. Also a bit in beans/nuts/whole grains"
+    },
+    {
+      "timestamp": 1646199682000,
+      "percent": 0.198962127080716,
+      "note": "Selenium improves mood scores\nBrazil (?) nuts"
+    },
+    {
+      "timestamp": 1646199750000,
+      "percent": 0.200047014940338,
+      "note": "Spices: antioxidant properties (fighting off free radicals, preventing oxidative stress)* look up the mechanism again\nAntidepressant"
+    },
+    {
+      "timestamp": 1646199941000,
+      "percent": 0.201611655413465,
+      "note": "Saffron reduces depression symptoms\n15 mg of saffron is like 20 mg of Prozac\nWe don\u2019t know it\u2019s mechanism of action (MOA)\nIncreases glutamate and dopamine\nMore expensive than gold per pound\nStrong taste"
+    },
+    {
+      "timestamp": 1646200084000,
+      "percent": 0.205857285151483,
+      "note": "Turmeric (2% curcumin by weight = 136 mg per teaspoon turmeric)\nEffective dose against depression 500mg\u20141g curcumin = 5\u201310 teaspoons of turmeric per day\n\nOr use less, and use it with black pepper, because piperine increases curcumin absorption by 2,000%"
+    },
+    {
+      "timestamp": 1646200405000,
+      "percent": 0.208081186442826,
+      "note": "Oregano (carvacrol) in animals helps against depression\nUsed to marinate olives and feta cheese\nEaten on oven-roasted vegetable"
+    },
+    {
+      "timestamp": 1646201761000,
+      "percent": 0.239137985710893,
+      "note": "Wait, what choices did he make during the day that led to his no longer craving ice cream or cookies at night?"
+    },
+    {
+      "timestamp": 1646202046000,
+      "percent": 0.240751360480261,
+      "note": "Review these next three minutes. Depression-fighting foods cheat sheet:"
+    },
+    {
+      "timestamp": 1646275077000,
+      "percent": 0.235974441787808,
+      "note": "Norwegian diet: canola oil instead of olive oil"
+    },
+    {
+      "timestamp": 1646276103000,
+      "percent": 0.271238919049368,
+      "note": "Foods to keep out of your diet:\nWestern diet\nBad fats (saturated, trans, PUFAs like vegetable oil used for deep frying), high GI carbs (fried foods, sweetened (esp with HFCS) drinks, and lots of red meat"
+    },
+    {
+      "timestamp": 1646276309000,
+      "percent": 0.272723186949509,
+      "note": "2016 \u2014 Sophie \u2014 rats on high fat diet more prone to diabetes and anxiety"
+    },
+    {
+      "timestamp": 1646276360000,
+      "percent": 0.273415717614795,
+      "note": "2017: forts rich in say fats and fructose increase anxiety-like behaviors in rats\nLower calorie diet in mice <-> decrease anxiety, improve blood flow"
+    },
+    {
+      "timestamp": 1646277208000,
+      "percent": 0.288532358555189,
+      "note": "Caffeine activates (thereby overstimulating) midbrain periacqueductal gray matter"
+    },
+    {
+      "timestamp": 1646277316000,
+      "percent": 0.289788135671936,
+      "note": "Effect on anxiety\n<100mg: no effect\n100\u2013400mg: a little under 50% of studies (9/21) show no effect, 12/21 show significant increases\n>400mg: bad"
+    },
+    {
+      "timestamp": 1646277455000,
+      "percent": 0.290889516579412,
+      "note": "Starbucks Venti = 475mg\nNespresso capsule: 1oz coffee w/ only 50\u201380mg"
+    },
+    {
+      "timestamp": 1646277636000,
+      "percent": 0.293049538345625,
+      "note": "Morning after, mild to moderate alcohol withdrawal: guilty, jittery, jumping out of skin"
+    },
+    {
+      "timestamp": 1646277690000,
+      "percent": 0.29327519161541,
+      "note": "Anxious people who drink regularly sleep more poorly"
+    },
+    {
+      "timestamp": 1646277725000,
+      "percent": 0.29448957650238,
+      "note": "Note: social anxiety disorder > quadruples risk of alcohol use disorder"
+    },
+    {
+      "timestamp": 1646278013000,
+      "percent": 0.295624546477207,
+      "note": "Heavy drinkers\nMen: 14/wk, or 4 times once per month\nWomen: 7/wk, or 3"
+    },
+    {
+      "timestamp": 1646278173000,
+      "percent": 0.297985747958324,
+      "note": "Celiac disease: gluten causes\u2026 anxiety? Pain?"
+    },
+    {
+      "timestamp": 1646278393000,
+      "percent": 0.304483370372418,
+      "note": "Anxiety, foods to add: dietary fiber\nNote: if it can be broken down by bacteria, fiber is called \u201cfermentable dietary fiber\u201d\u2014promotes growth of good gut bacteria (e.g. pivitobacterium? and lactobacillus increase, alleviating anxiety)"
+    },
+    {
+      "timestamp": 1646278578000,
+      "percent": 0.306784877660978,
+      "note": "Plus you eat fiber more slowly"
+    },
+    {
+      "timestamp": 1646278619000,
+      "percent": 0.30823924526146,
+      "note": "Brain inflammation -> anxiety\nFiber decreases inflammation\nBeans, brown rice, berries, bran, baked potato (w/ skin on)\nPears, apples, bananas, almonds, broccoli, Brussels sprouts, carrots, walnuts, oats, buckwheat, pearl barley, etc."
+    },
+    {
+      "timestamp": 1646278891000,
+      "percent": 0.311712078167967,
+      "note": "Omega-3 (icosapentanoic acid) -> less anxiety, less stress (measured by IL-6)"
+    },
+    {
+      "timestamp": 1646279126000,
+      "percent": 0.315616638770139,
+      "note": "Vegetable oil -> canola oil"
+    },
+    {
+      "timestamp": 1646279240000,
+      "percent": 0.315811682361863,
+      "note": "Plain yogurt with active cultures, kimchi\nImprove cognitive faculties, e.g. memory, and slow cognitive decline. Mechanism not yet known."
+    },
+    {
+      "timestamp": 1646279895000,
+      "percent": 0.326059752920222,
+      "note": "Trp (purified) = serotonin precursor\nBut W isn\u2019t prioritized by the body. So you actually have to absorb it properly"
+    },
+    {
+      "timestamp": 1646280068000,
+      "percent": 0.329898234924216,
+      "note": "Chickpeas = tryptophan\nWhole wheat pita bread provides carbs to (probably) help increase trp absorption from hummus\nOur avocado hummus on whole grain toast (for breakfast)"
+    },
+    {
+      "timestamp": 1646280271000,
+      "percent": 0.331104142739278,
+      "note": "Vitamin D pill every two weeks, for women with Vit D deficiency and diabetes, helped reduce anxiety"
+    },
+    {
+      "timestamp": 1646280381000,
+      "percent": 0.332252058869948,
+      "note": "Note:\nVitamin D = neurosteroid\nDecreases inflammation & toxic destruction of cells\nControls release of nerve growth factor -> hypocampal (HPA :. Anxiety) + cortical neurons"
+    },
+    {
+      "timestamp": 1646280539000,
+      "percent": 0.334151242197619,
+      "note": "Vitamin D sources\nSun exposure, fortified milk, egg yolk, salmon, sun-dried mushrooms, cod liver oil"
+    },
+    {
+      "timestamp": 1646281311000,
+      "percent": 0.334340504355364,
+      "note": "Note: glass absorbs all ultraviolet B light/radiation, so light streaming in though the window doesn\u2019t provide the vitamin D we need."
+    },
+    {
+      "timestamp": 1646281703000,
+      "percent": 0.347429635415103,
+      "note": "Plavix is a blood thinner.\nPlavix & MAOIs don\u2019t do well with passionflower extract (90 mg per day)"
+    },
+    {
+      "timestamp": 1646282027000,
+      "percent": 0.345414078560528,
+      "note": "Extracts of passionflower / guava and combinations of AAs (e.g. Lys/Arg) reduce anxiety.\nPF increases GABA, decreasing anxiety, and doesn\u2019t cause sedation."
+    },
+    {
+      "timestamp": 1646291614000,
+      "percent": 0.391536195241579,
+      "note": "Relisten to chapter 4 and include my notes. Like that thought I had about how she\u2019s mentioning the noise study with those two chemicals you might want to add"
+    },
+    {
+      "timestamp": 1646292211000,
+      "percent": 0.402756788120629,
+      "note": "Banana increases blood glucose more than an apple"
+    },
+    {
+      "timestamp": 1646551936000,
+      "percent": 0.416353975992125,
+      "note": "Low glutamate diet -> helps w/ lower PTSD [correlation]"
+    },
+    {
+      "timestamp": 1646551985000,
+      "percent": 0.415956475804373,
+      "note": "Sources (bad) of MSG/glutamates:\nFish/oyster/tomato sauce, Parmesan cheese, miso, chips, ready-to-eat meals, mushrooms, spinach\nTomato sauce = pizza :("
+    },
+    {
+      "timestamp": 1646552118000,
+      "percent": 0.416571967975165,
+      "note": "Glutamic acid -> glutamate [-> MSG]\nSources (bad):\nSeaweed, cheeses, soy sauce, tomatoes, high-protein foods (meats/seafood)"
+    },
+    {
+      "timestamp": 1646552331000,
+      "percent": 0.421319731215282,
+      "note": "Eat blueberries (1/2\u20131 cup per day)\nBlueberry-enriched diet:\n^ serotonin levels in the brain\nReduced free radicals (and inflammation)\nRaised levels of SCAR-2 (decreased in PTSD patients and suicide victims)"
+    },
+    {
+      "timestamp": 1646627023000,
+      "percent": 0.430259956282162,
+      "note": "Farmed, fatty fish > wild fish\nJust make sure this is actually scientifically based, and not politically motivated"
+    },
+    {
+      "timestamp": 1646628400000,
+      "percent": 0.431184701967455,
+      "note": "Free radicals can \u201ccause stress\u201c in the brain"
+    },
+    {
+      "timestamp": 1646628559000,
+      "percent": 0.433031320355513,
+      "note": "Vitamin E appears to help prevent brain damage\nSources: one tablespoon of wheat germ oil, sunflower seeds, dried roasted almonds, hazelnuts, peanut butter, broccoli, spinach, raw tomatoes"
+    },
+    {
+      "timestamp": 1646628707000,
+      "percent": 0.4369403145727,
+      "note": "Turmeric (curcumin) + pinch black pepper\n\n200mg Ginkgo bullova can help w/ anxiety, depression, PTSD"
+    },
+    {
+      "timestamp": 1648579435000,
+      "percent": 0.437750318301414,
+      "note": "Black pepper + turmeric to activate the turmeric"
+    },
+    {
+      "timestamp": 1648579974000,
+      "percent": 0.464210416460143,
+      "note": "Dairy and gluten (Celiac disease) intolerance both linked to exacerbating ADHD symptoms"
+    },
+    {
+      "timestamp": 1648580208000,
+      "percent": 0.474581209482107,
+      "note": "A1 caseine protein in milk is bad for you: gastrointestinal inflammation, slower thinking, more errors on info processing test"
+    },
+    {
+      "timestamp": 1648587602000,
+      "percent": 0.520854742983138,
+      "note": "Norepinephrine enhances memory, especially during emotional times"
+    },
+    {
+      "timestamp": 1648615497000,
+      "percent": 0.522076895563614,
+      "note": "Vagus nerve stimulation enhances memory. So I can eat or activate my sex drive in such a way that it helps me remember"
     }
   ],
   "circulation": [
@@ -422,7 +422,7 @@
     {
       "timestamp": 1645506334218,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "San Francisco Public Library",
         "url": "https://libbyapp.com/library/sfpl",
@@ -438,5 +438,6 @@
         "key": "sfpl"
       }
     }
-  ]
+  ],
+  "highlights": []
 }

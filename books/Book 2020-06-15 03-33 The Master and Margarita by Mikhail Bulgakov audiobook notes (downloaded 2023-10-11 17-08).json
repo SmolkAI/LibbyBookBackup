@@ -15,7 +15,8 @@
     },
     "author": "Mikhail Bulgakov",
     "publisher": "Naxos AudioBooks",
-    "isbn": "9789629548292"
+    "isbn": "9789629548292",
+    "percent": 0.00808162842701055
   },
   "circulation": [
     {
@@ -27,5 +28,7 @@
         "key": "ccc"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

@@ -19,6 +19,45 @@
   },
   "circulation": [
     {
+      "timestamp": 1708444469000,
+      "activity": "Returned",
+      "details": "on due date",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
+      "timestamp": 1708336176203,
+      "activity": "Placed on hold",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
+      "timestamp": 1706630070866,
+      "activity": "Tagged",
+      "details": "\ud83e\uddfe",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
+      "timestamp": 1706630069000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
       "timestamp": 1705434935933,
       "activity": "Placed on hold",
       "library": {
@@ -27,5 +66,7 @@
         "key": "nypl"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

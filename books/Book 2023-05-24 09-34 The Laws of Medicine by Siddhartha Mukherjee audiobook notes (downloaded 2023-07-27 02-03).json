@@ -15,18 +15,30 @@
     },
     "author": "Siddhartha Mukherjee",
     "publisher": "Simon & Schuster Audio / TED",
-    "isbn": "9781442378131"
+    "isbn": "9781442378131",
+    "percent": 0.873829824108385
   },
   "circulation": [
     {
       "timestamp": 1684946070083,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1684946069000,
+      "activity": "Borrowed",
       "library": {
         "text": "San Francisco Public Library",
         "url": "https://libbyapp.com/library/sfpl",
         "key": "sfpl"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

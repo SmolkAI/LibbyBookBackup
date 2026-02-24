@@ -19,6 +19,65 @@
   },
   "circulation": [
     {
+      "timestamp": 1718412296000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
+      "timestamp": 1716777381000,
+      "activity": "Returned",
+      "details": "on due date",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
+      "timestamp": 1714962981000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
+      "timestamp": 1708444458000,
+      "activity": "Returned",
+      "details": "on due date",
+      "library": {
+        "text": "Brooklyn Public Library",
+        "url": "https://libbyapp.com/library/brooklyn",
+        "key": "brooklyn"
+      }
+    },
+    {
+      "timestamp": 1706630058952,
+      "activity": "Tagged",
+      "details": "\ud83e\uddfe",
+      "library": {
+        "text": "Brooklyn Public Library",
+        "url": "https://libbyapp.com/library/brooklyn",
+        "key": "brooklyn"
+      }
+    },
+    {
+      "timestamp": 1706630058000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "Brooklyn Public Library",
+        "url": "https://libbyapp.com/library/brooklyn",
+        "key": "brooklyn"
+      }
+    },
+    {
       "timestamp": 1701281397703,
       "activity": "Placed on hold",
       "library": {
@@ -27,5 +86,7 @@
         "key": "brooklyn"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

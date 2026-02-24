@@ -19,6 +19,15 @@
   },
   "circulation": [
     {
+      "timestamp": 1710523106000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
       "timestamp": 1707937566000,
       "activity": "Returned",
       "details": "on due date",
@@ -40,7 +49,7 @@
     {
       "timestamp": 1706123166323,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "New York Public Library",
         "url": "https://libbyapp.com/library/nypl",
@@ -57,5 +66,7 @@
         "key": "nypl"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

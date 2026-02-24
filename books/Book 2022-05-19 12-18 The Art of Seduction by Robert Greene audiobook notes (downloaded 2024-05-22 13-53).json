@@ -16,7 +16,7 @@
     "author": "Robert Greene",
     "publisher": "HighBridge",
     "isbn": "9781622318667",
-    "percent": 0
+    "percent": 1.00000016218357
   },
   "circulation": [
     {
@@ -31,7 +31,7 @@
     {
       "timestamp": 1647978684764,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "Brooklyn Public Library",
         "url": "https://libbyapp.com/library/brooklyn",
@@ -46,6 +46,19 @@
         "url": "https://libbyapp.com/library/brooklyn",
         "key": "brooklyn"
       }
+    }
+  ],
+  "highlights": [],
+  "bookmarks": [
+    {
+      "timestamp": 1653063721000,
+      "percent": 0.0206649677914932,
+      "note": "This is why people advertise trading with the allure of financial freedom; this is what modern advertising comes from. "
+    },
+    {
+      "timestamp": 1653188888000,
+      "percent": 0.205699317383926,
+      "note": "He\u2019s not wrong. A girl dressed in a hoody is wonderously hot."
     }
   ]
 }

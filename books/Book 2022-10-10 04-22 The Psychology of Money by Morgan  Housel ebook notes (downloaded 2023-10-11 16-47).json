@@ -19,9 +19,18 @@
   },
   "circulation": [
     {
+      "timestamp": 1679001973000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
       "timestamp": 1665400979634,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "Contra Costa County Library",
         "url": "https://libbyapp.com/library/ccc",
@@ -37,5 +46,7 @@
         "key": "ccc"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

@@ -51,7 +51,7 @@
     {
       "timestamp": 1674677046335,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "Brooklyn Public Library",
         "url": "https://libbyapp.com/library/brooklyn",
@@ -68,5 +68,7 @@
         "key": "brooklyn"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

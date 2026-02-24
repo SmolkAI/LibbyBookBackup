@@ -19,9 +19,18 @@
   },
   "circulation": [
     {
+      "timestamp": 1677972712000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "New York Public Library",
+        "url": "https://libbyapp.com/library/nypl",
+        "key": "nypl"
+      }
+    },
+    {
       "timestamp": 1676140731262,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "Contra Costa County Library",
         "url": "https://libbyapp.com/library/ccc",
@@ -37,5 +46,7 @@
         "key": "ccc"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

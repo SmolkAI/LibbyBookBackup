@@ -4,16 +4,16 @@
     "cover": {
       "contentType": "image/jpeg",
       "url": "https://img2.od-cdn.com/ImageType-100/5131-1/{B22C99CD-A3F4-4C57-8416-8D34B788F841}Img100.jpg",
-      "title": "Горе от ума",
+      "title": "\u0413\u043e\u0440\u0435 \u043e\u0442 \u0443\u043c\u0430",
       "color": "#5D3C19",
       "format": "ebook"
     },
     "title": {
-      "text": "Горе от ума",
+      "text": "\u0413\u043e\u0440\u0435 \u043e\u0442 \u0443\u043c\u0430",
       "url": "https://share.libbyapp.com/title/1626699",
       "titleId": "1626699"
     },
-    "author": "А. С. Грибоедов",
+    "author": "\u0410. \u0421. \u0413\u0440\u0438\u0431\u043e\u0435\u0434\u043e\u0432",
     "publisher": "Aegitas",
     "isbn": "9785000640661"
   },
@@ -21,7 +21,7 @@
     {
       "timestamp": 1651433380875,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "Brooklyn Public Library",
         "url": "https://libbyapp.com/library/brooklyn",
@@ -37,5 +37,7 @@
         "key": "brooklyn"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

@@ -20,28 +20,9 @@
   },
   "bookmarks": [
     {
-      "timestamp": 1656449203000,
-      "percent": 0.980262272529935,
-      "note": "3. Pick a “scrum master” on the team, will guide the team through making sure they have everything needed to follow scrum framework, and identify and eliminate waste, things slowing the team down"
-    },
-    {
-      "timestamp": 1656449148000,
-      "percent": 0.979900552240949,
-      "note": "2. Pick a team (3–9 people), with all the skills needed to turn the Product Owner’s vision into a reality"
-    },
-    {
-      "timestamp": 1656449126000,
-      "percent": 0.978984883166543,
-      "note": "1. Pick a product owner"
-    },
-    {
-      "timestamp": 1656449048000,
-      "percent": 0.975618321432348,
-      "note": "Professors “whose work sparked the idea of scrum”"
-    },
-    {
-      "timestamp": 1656231191000,
-      "percent": 0.863361096140628
+      "timestamp": 1654128053000,
+      "percent": 0.0207422402148784,
+      "note": "JJ Sutherland reads this very well if you\u2019re listening at 1x speed. However, if you\u2019re trying to listen at >1x speed, his style doesn\u2019t help you. He cuts off certain words, which is the way I am used to hearing it, but this makes it sound \u201cjarring\u201d/\u201coff\u201d when played at high speed."
     },
     {
       "timestamp": 1654186679000,
@@ -49,9 +30,28 @@
       "note": "Sutherland went to West Point. [this could be part of the reason he was successful and able to deploy his ideas in the FBI and able to penetrate the tech world)"
     },
     {
-      "timestamp": 1654128053000,
-      "percent": 0.0207422402148784,
-      "note": "JJ Sutherland reads this very well if you’re listening at 1x speed. However, if you’re trying to listen at >1x speed, his style doesn’t help you. He cuts off certain words, which is the way I am used to hearing it, but this makes it sound “jarring”/“off” when played at high speed."
+      "timestamp": 1656231191000,
+      "percent": 0.863361096140628
+    },
+    {
+      "timestamp": 1656449048000,
+      "percent": 0.975618321432348,
+      "note": "Professors \u201cwhose work sparked the idea of scrum\u201d"
+    },
+    {
+      "timestamp": 1656449126000,
+      "percent": 0.978984883166543,
+      "note": "1. Pick a product owner"
+    },
+    {
+      "timestamp": 1656449148000,
+      "percent": 0.979900552240949,
+      "note": "2. Pick a team (3\u20139 people), with all the skills needed to turn the Product Owner\u2019s vision into a reality"
+    },
+    {
+      "timestamp": 1656449203000,
+      "percent": 0.980262272529935,
+      "note": "3. Pick a \u201cscrum master\u201d on the team, will guide the team through making sure they have everything needed to follow scrum framework, and identify and eliminate waste, things slowing the team down"
     }
   ],
   "circulation": [
@@ -67,7 +67,7 @@
     {
       "timestamp": 1652278961840,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "San Francisco Public Library",
         "url": "https://libbyapp.com/library/sfpl",
@@ -83,5 +83,6 @@
         "key": "sfpl"
       }
     }
-  ]
+  ],
+  "highlights": []
 }

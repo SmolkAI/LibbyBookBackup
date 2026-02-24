@@ -15,20 +15,30 @@
     },
     "author": "Malcolm Gladwell",
     "publisher": "Blackstone Audio, Inc.",
-    "percent": 0.0694582156026338
+    "percent": 0.0750271533184569
   },
   "bookmarks": [
     {
       "timestamp": 1706114885000,
       "percent": 0.0683582166607111,
-      "note": "If you determine and separate the “talented” and “untalented” at an early age and provide the “talented” with a superior experience, you’re going to give a huge advantage to a small group of people born closest to the cutoff date."
+      "note": "If you determine and separate the \u201ctalented\u201d and \u201cuntalented\u201d at an early age and provide the \u201ctalented\u201d with a superior experience, you\u2019re going to give a huge advantage to a small group of people born closest to the cutoff date."
     }
   ],
   "circulation": [
     {
+      "timestamp": 1706504532000,
+      "activity": "Returned",
+      "details": "on due date",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
       "timestamp": 1704690132666,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "San Francisco Public Library",
         "url": "https://libbyapp.com/library/sfpl",
@@ -45,5 +55,6 @@
         "key": "sfpl"
       }
     }
-  ]
+  ],
+  "highlights": []
 }

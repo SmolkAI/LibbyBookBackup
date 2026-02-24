@@ -20,14 +20,9 @@
   },
   "bookmarks": [
     {
-      "timestamp": 1675390046000,
-      "percent": 0.915819892694923,
-      "note": "Appearances matter. Once you start mentioning that an investment has social benefits, investors assume there’s a lower return"
-    },
-    {
-      "timestamp": 1674690931000,
-      "percent": 0.38435156819655,
-      "note": "Opportunity zones are a wealthy capital gains tax cut"
+      "timestamp": 1674677734000,
+      "percent": 0.363273273444186,
+      "note": "So, the opportunity zone says that your capital gains tax can be deferred to at least 2026 if you place it in an opportunity zone fund. So if I learn them well enough, I can create such a fund and ask people to donate. This was something I should have done in late 2021, not in 2023 (now that everyone has already lost all their money)\u2026"
     },
     {
       "timestamp": 1674686871000,
@@ -35,9 +30,14 @@
       "note": "That's beautiful. Since college students report no income, college towns tend to be Opportunity Zones (OZs)"
     },
     {
-      "timestamp": 1674677734000,
-      "percent": 0.363273273444186,
-      "note": "So, the opportunity zone says that your capital gains tax can be deferred to at least 2026 if you place it in an opportunity zone fund. So if I learn them well enough, I can create such a fund and ask people to donate. This was something I should have done in late 2021, not in 2023 (now that everyone has already lost all their money)…"
+      "timestamp": 1674690931000,
+      "percent": 0.38435156819655,
+      "note": "Opportunity zones are a wealthy capital gains tax cut"
+    },
+    {
+      "timestamp": 1675390046000,
+      "percent": 0.915819892694923,
+      "note": "Appearances matter. Once you start mentioning that an investment has social benefits, investors assume there\u2019s a lower return"
     }
   ],
   "circulation": [
@@ -64,7 +64,7 @@
     {
       "timestamp": 1670924364442,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "San Francisco Public Library",
         "url": "https://libbyapp.com/library/sfpl",
@@ -80,5 +80,6 @@
         "key": "sfpl"
       }
     }
-  ]
+  ],
+  "highlights": []
 }

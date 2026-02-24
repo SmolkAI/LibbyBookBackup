@@ -14,13 +14,70 @@
       "titleId": "1012348"
     },
     "author": "Mortimer J. Adler, Charles Van Doren",
-    "publisher": "Blackstone Publishing"
+    "publisher": "Blackstone Publishing",
+    "percent": 0.406191158299464
   },
   "circulation": [
     {
+      "timestamp": 1724379353000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1720743679000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1715724358000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1714066808000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1710523126000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1707946020000,
+      "activity": "Returned",
+      "details": "on due date",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
       "timestamp": 1706131621030,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "San Francisco Public Library",
         "url": "https://libbyapp.com/library/sfpl",
@@ -45,6 +102,139 @@
         "url": "https://libbyapp.com/library/sfpl",
         "key": "sfpl"
       }
+    }
+  ],
+  "highlights": [],
+  "bookmarks": [
+    {
+      "timestamp": 1714181909000,
+      "percent": 0.048801303891358,
+      "note": "This is a problem that I cause for myself as well. In the future, it's better to first have a cursory inspection, to understand the main content, and then read something more deeply"
+    },
+    {
+      "timestamp": 1714182084000,
+      "percent": 0.0510477038982491,
+      "note": "Analytical reading it's only necessary for understanding, so, if you're trying to learn facts (skimming), cursory reading is the best way to go. Knowing this would've saved me a lot of time, as I would always attempt to read at the third level, without knowing the basics, the facts. I\u2019d skip level 2. And, in high-level scientific articles, possibly even level one, where I would have to look up the words in a dictionary or glossary"
+    },
+    {
+      "timestamp": 1714182216000,
+      "percent": 0.0515639417902889,
+      "note": "This is the level that they always try to teach in high schools (plus, don't have the time to read all of the requisite texts). The problem is, students have no idea how to read at levels 1\u20133, so this ends up being a lesson in how to bullshit, rather than how to read at the highest level."
+    },
+    {
+      "timestamp": 1714182346000,
+      "percent": 0.0512015844027318,
+      "note": "Just knowing basic vocab and basic grammar rules put me head and shoulders above the majority of the rest of students, which was compounded on by the fact that they were all trying to learn this high level of reading (again, without knowing the basic level). However, I never understood that this is what we are aiming for, so am I Reading comprehension, while subjectively high (good for SAT scores), was objectively low"
+    },
+    {
+      "timestamp": 1714182513000,
+      "percent": 0.0523931018114046,
+      "note": "Syntopical reading is exactly what you're doing when you're creating a meta analysis/review of studies. I should've been taught in college, although I didn't know where to turn. So, the next best thing is that I learn it now"
+    },
+    {
+      "timestamp": 1714182829000,
+      "percent": 0.0535291236916406,
+      "note": "I wonder what Mortimer Adler would say about the state of reading in the world today"
+    },
+    {
+      "timestamp": 1714609926000,
+      "percent": 0.134186299545463,
+      "note": "That's false it's only true if you assume that he is talking about journalistic articles and books written for the average reader. If you're referring to scientific articles, a book about the subject will be much simpler to digest as it will likely be written for a broader audience, rather than simply being an exposition of the facts, with the assumption that the reader is familiar with the topic"
+    },
+    {
+      "timestamp": 1717351942000,
+      "percent": 0.231179967087114,
+      "note": "Interesting. Leibniz, one of the greatest minds of his time, who invented calculus coincidentally with Newton, try to invent a perfect language. However, if we had invented I completely ideal language with a one to one mapping of Word to term to concept, this would also remove a lot of the beauties of language, completely eradicating the whole field of poetry, which relies on words being necessarily ambiguous and having multiple meanings. On no diaphaneity the language"
+    },
+    {
+      "timestamp": 1718039418000,
+      "percent": 0.207338972979493,
+      "note": "Note to self: vicious is to vice as a virtuous is to virtue. I had never realized that until he wrote them directly in parallel to the verbs in this book"
+    },
+    {
+      "timestamp": 1718125098000,
+      "percent": 0.274390824799841,
+      "note": "Add a bookmark to the paragraph before \u201cseldom\u201d"
+    },
+    {
+      "timestamp": 1718126043000,
+      "percent": 0.288042922608255,
+      "note": "That's the mistake I used to always make. Don't recognize what's important and what's not and read everything at the same speed"
+    },
+    {
+      "timestamp": 1718130006000,
+      "percent": 0.291938561243943,
+      "note": "Very important note here. You're supposed to read a different speeds, but you should be pausing at the sentences that puzzle you, not at the ones that *Interest* you"
+    },
+    {
+      "timestamp": 1718130545000,
+      "percent": 0.299521919105147,
+      "note": "Quick tests of whether you understand something that you read: (1) try to state the same thing in other words, (2) try to relate whatever you read to something in your life"
+    },
+    {
+      "timestamp": 1718151530000,
+      "percent": 0.283026745452664,
+      "note": "Once you and the author have come to terms (Rule five), that is, you understand the words the author is using in the way he intends to use them, you can mark the most important sentences and decipher the specific propositions they contain"
+    },
+    {
+      "timestamp": 1718292862000,
+      "percent": 0.304307806002424,
+      "note": "Tweet idea: each paragraph = one thought. When writing, vary sentence length and structure to make it interesting to read."
+    },
+    {
+      "timestamp": 1718324315000,
+      "percent": 0.311841027268268,
+      "note": "Who is William Harvey, author of On the Motion of the Heart?"
+    },
+    {
+      "timestamp": 1718650585000,
+      "percent": 0.288796715889359,
+      "note": "Being perplexed, and knowing that your perplexed, is an essential part of reading. Wonder leads to wisdom"
+    },
+    {
+      "timestamp": 1718986391000,
+      "percent": 0.297775554310088,
+      "note": "Is that why I constantly wonder why authors are just repeating the same thing? It's because they're trying to say one thing, but they figure that the people who are reading either didn't understand in need for them to restate the same in different words to help them understand or too stupid to understand"
+    },
+    {
+      "timestamp": 1719325455000,
+      "percent": 0.345498058217349,
+      "note": "What\u2019s required to achieve the one goal you need from books (to learn): honesty\u2014don\u2019t argue where it\u2019s not needed just to win an argument with an author who\u2019s not there, humbleness (admit a point), and don\u2019t feel whipped to agree with an author where he\u2019s wrong"
+    },
+    {
+      "timestamp": 1719325776000,
+      "percent": 0.347081910669413,
+      "note": "Even here, Adler brings in the concepts I of Godly and animal souls as the source of the ability to agree and the source of disagreement, respectively"
+    },
+    {
+      "timestamp": 1719327566000,
+      "percent": 0.349220790337833,
+      "note": "The point of disagreements is that you can teach the other person something or they can teach you something"
+    },
+    {
+      "timestamp": 1719521548000,
+      "percent": 0.34174570810097,
+      "note": "To judge Kahn critique of pure reason, you also need to read cons critique of practical reason. To judge Adam Smith wealth of Nations, you also need to read Adam Smith's theory of the moral sentiments. And the same thing goes for Carl Marx's dust capital which should be rent together with the communist manifesto and you should just judge the communist manifesto without having read his book on capitalism"
+    },
+    {
+      "timestamp": 1721141348000,
+      "percent": 0.340245926159419,
+      "note": "The town that I noticed with Liza. When she says I don't understand, generally seems like it's my fault that she doesn't understand, and in other words that it's unclear or wrong"
+    },
+    {
+      "timestamp": 1721141464000,
+      "percent": 0.341207387088736,
+      "note": "Poetics, Analysis and poetry, makes points that are dependent on his treatises of psychology/logic/Metaphysics"
+    },
+    {
+      "timestamp": 1721141750000,
+      "percent": 0.345754387855178,
+      "note": "In this case, a matter of yigal versus humanity. Once you transcend ego, a point of \"I agree,\" or \"I disagree\" with the points being made. Until then, emotional and thinking about how it affects you"
+    },
+    {
+      "timestamp": 1725325975000,
+      "percent": 0.372812144482473,
+      "note": "I should read this section in the book, because it's difficult to follow in the audiobook how Machiavelli is making a mistake in reasoning, a logical fallacy, in The Prince."
     }
   ]
 }

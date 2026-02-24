@@ -15,7 +15,8 @@
     },
     "author": "Adam Smith",
     "publisher": "Penguin Books Ltd",
-    "isbn": "9780141908199"
+    "isbn": "9780141908199",
+    "percent": 0.000831946755407654
   },
   "circulation": [
     {
@@ -48,7 +49,7 @@
     {
       "timestamp": 1642347666945,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "Contra Costa County Library",
         "url": "https://libbyapp.com/library/ccc",
@@ -64,5 +65,7 @@
         "key": "ccc"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

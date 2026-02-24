@@ -19,9 +19,19 @@
   },
   "circulation": [
     {
+      "timestamp": 1707710174000,
+      "activity": "Returned",
+      "details": "on due date",
+      "library": {
+        "text": "Brooklyn Public Library",
+        "url": "https://libbyapp.com/library/brooklyn",
+        "key": "brooklyn"
+      }
+    },
+    {
       "timestamp": 1705895774758,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "Brooklyn Public Library",
         "url": "https://libbyapp.com/library/brooklyn",
@@ -38,5 +48,7 @@
         "key": "brooklyn"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

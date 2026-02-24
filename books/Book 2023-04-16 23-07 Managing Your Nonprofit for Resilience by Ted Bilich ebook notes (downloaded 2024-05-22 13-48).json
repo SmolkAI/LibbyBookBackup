@@ -21,7 +21,7 @@
     {
       "timestamp": 1681711665024,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "Candid",
         "url": "https://libbyapp.com/library/candid",
@@ -37,5 +37,7 @@
         "key": "candid"
       }
     }
-  ]
+  ],
+  "highlights": [],
+  "bookmarks": []
 }

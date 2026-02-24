@@ -16,9 +16,37 @@
     "author": "Burton G. Malkiel",
     "publisher": "Recorded Books, Inc.",
     "isbn": "9781980029557",
-    "percent": 0.000457542844793695
+    "percent": 0.566848653577888
   },
   "circulation": [
+    {
+      "timestamp": 1712342413000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Contra Costa County Library",
+        "url": "https://libbyapp.com/library/ccc",
+        "key": "ccc"
+      }
+    },
+    {
+      "timestamp": 1710523215000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "Contra Costa County Library",
+        "url": "https://libbyapp.com/library/ccc",
+        "key": "ccc"
+      }
+    },
+    {
+      "timestamp": 1710520697000,
+      "activity": "Returned",
+      "details": "on due date",
+      "library": {
+        "text": "Contra Costa County Library",
+        "url": "https://libbyapp.com/library/ccc",
+        "key": "ccc"
+      }
+    },
     {
       "timestamp": 1705434638000,
       "activity": "Borrowed",
@@ -41,7 +69,7 @@
     {
       "timestamp": 1698249317825,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "Contra Costa County Library",
         "url": "https://libbyapp.com/library/ccc",
@@ -56,6 +84,200 @@
         "url": "https://libbyapp.com/library/ccc",
         "key": "ccc"
       }
+    }
+  ],
+  "highlights": [],
+  "bookmarks": [
+    {
+      "timestamp": 1708359564000,
+      "percent": 0.00935241396217355,
+      "note": "Professor Malkiel believes that just regurgitating Chapter 14 to people is worth their paying a high price for a financial advisor. So I can just tell them ACH. 14 from this book + how not to care about it from Mark\u2019s TitZ + the basics of TII by Graham."
+    },
+    {
+      "timestamp": 1708359812000,
+      "percent": 0.0100271022184769,
+      "note": "Didn't I *just* hear this quote somewhere else? "
+    },
+    {
+      "timestamp": 1708359950000,
+      "percent": 0.0117906968904078,
+      "note": "Today, too, the professionals are \u201coverloading their portfolios with overpriced tech stocks\u201d "
+    },
+    {
+      "timestamp": 1708461997000,
+      "percent": 0.0289820080096631,
+      "note": "Lol"
+    },
+    {
+      "timestamp": 1708467273000,
+      "percent": 0.0671884489555291,
+      "note": "\u201cWhom the gods would destroy, they first ridicule\u201d"
+    },
+    {
+      "timestamp": 1708470386000,
+      "percent": 0.0856183098591173,
+      "note": "are we ready to say that the market hasn\u2019t hit its required highs due to AI? Akin to what he\u2019s saying in 1929"
+    },
+    {
+      "timestamp": 1708501990000,
+      "percent": 0.0912309920171687,
+      "note": "It is not hard to make money in the market. What is hard to avoid is the alluring temptation throw your money away on short, get-rich-quick speculative adventures. "
+    },
+    {
+      "timestamp": 1708556721000,
+      "percent": 0.0997198543625038,
+      "note": "What's considered an \"adequate\" prospectus? How can we create such a company with new issues the next time this happens? We already had it happen once in the 2020/2021 era. But I wasn\u2019t able to capitalize then"
+    },
+    {
+      "timestamp": 1708568407000,
+      "percent": 0.10048935392392,
+      "note": "How did the marketing work? And how did the iPOs work, were they underwritten by bulge bracket banks, just like any other businesses?"
+    },
+    {
+      "timestamp": 1708707058000,
+      "percent": 0.138284091725062,
+      "note": "Note: I should also read the trial minutes and opinion. This one maybe as useful, if not more useful, than Barry Minkow\u2019s original #book"
+    },
+    {
+      "timestamp": 1709239941000,
+      "percent": 0.150104612892378,
+      "note": "I swear this reminds me of something from the Bible. I think it's probably that quote, \"the meek shall inherit the Earth\""
+    },
+    {
+      "timestamp": 1709503588000,
+      "percent": 0.157176288237116,
+      "note": "AI is currently causing jumps in stock price."
+    },
+    {
+      "timestamp": 1709520821000,
+      "percent": 0.188243361983017
+    },
+    {
+      "timestamp": 1709654280000,
+      "percent": 0.211848173871477,
+      "note": "The main point of the book: no one person consistently knows more than the market"
+    },
+    {
+      "timestamp": 1709654461000,
+      "percent": 0.214827232391836,
+      "note": "Nowadays, that figures been updated. It's now manage the flashlight"
+    },
+    {
+      "timestamp": 1709696259000,
+      "percent": 0.257880414917262,
+      "note": "Lol"
+    },
+    {
+      "timestamp": 1709828539000,
+      "percent": 0.312923668556535
+    },
+    {
+      "timestamp": 1711048901000,
+      "percent": 0.319462706516769,
+      "note": "This is exactly what this book is about. And what I need to know when I try to trade based purely on technicals. Random walk. You have to have fundamentals. You can use technicals to make more money."
+    },
+    {
+      "timestamp": 1711052518000,
+      "percent": 0.329871687603061,
+      "note": "So this is basically advocating for following trends"
+    },
+    {
+      "timestamp": 1711053056000,
+      "percent": 0.331226521222819,
+      "note": "I should run this test myself. Use the strategy of comparing buy at 5% from low and sell at 5% from high, or 7%, or whatever. Run a Python simulation that takes all the prices over the past N days. 3 parameters: N days, percent_off_low to buy at, percent_off_high to sell at. Download the data, and then run the test. Do the same thing with 15 minute data during various periods of time. Backtest throughout history, backtest using specific time periods (e.g. ZIRP era, QT eras, QE eras, infinite since stock IPO, etc.)"
+    },
+    {
+      "timestamp": 1711054646000,
+      "percent": 0.353380644218083,
+      "note": "What I'm getting from this is that it's likely that Simons\u2019 mystical 66% CAGR medallion fund is also likely a scam, where they front run their public funds\u2019 purchases and front run their sales. But, then again, they do hire leading physicists and mathematicians with PhDs in the hard sciences. So maybe it *is* an exception"
+    },
+    {
+      "timestamp": 1711054938000,
+      "percent": 0.353848674199228,
+      "note": "So it's the same thing that mom and I realized. You can find something that is profitable, but it won't make money unless you have no transactions cost. So you have to trade the stock itself, and you have to be happy with the returns you get."
+    },
+    {
+      "timestamp": 1711056960000,
+      "percent": 0.367452008546269,
+      "note": "That's absolutely insane. 95% of all stock market returns went on 90 days out of 7500 Study"
+    },
+    {
+      "timestamp": 1711466741000,
+      "percent": 0.356718187225167
+    },
+    {
+      "timestamp": 1711467073000,
+      "percent": 0.363380223635276,
+      "note": "Don't forget to forward test any ideas"
+    },
+    {
+      "timestamp": 1711472330000,
+      "percent": 0.369875225113455,
+      "note": "Lol"
+    },
+    {
+      "timestamp": 1712347887000,
+      "percent": 0.595105435773718,
+      "note": "This is exactly what Toly's ping-pong strategy was based on. He would just basically be a wall, and wait until the other person made a mistake. I guess it was based on sound economic theory."
+    },
+    {
+      "timestamp": 1712803050000,
+      "percent": 0.704038476686383,
+      "note": "Why to consider a variable annuity: if you've maxed out on all the other tax-deferred savings alternatives."
+    },
+    {
+      "timestamp": 1713376367000,
+      "percent": 0.500090746650031,
+      "note": "So as I understand it, if I create a negative Beta portfolio and the market increases and my portfolio decreases, but it decreases less than would be protected by the $beta*market$, I am said to have produced alpha? Or is this true, but does alpha only matter in the case where your performance is at least as good as that of the market itself"
+    },
+    {
+      "timestamp": 1713453711000,
+      "percent": 0.705681137118534,
+      "note": "For Mom: how to save"
+    },
+    {
+      "timestamp": 1713474133000,
+      "percent": 0.541697321249349
+    },
+    {
+      "timestamp": 1713808517000,
+      "percent": 0.772758308541285,
+      "note": "Yes, but how much did it make its owners by allowing them to sell other things throughout that time? You walk into someone's home who says that he owns a da Vinci, and he can mark up everything else that he owns."
+    },
+    {
+      "timestamp": 1713812569000,
+      "percent": 0.796351707957833,
+      "note": "Is it 5%? If inflation rises by 5%, wouldn\u2019t you need a nominal return of $105%*105%=110.25%$ to net a real return of 5%, rather than 110.00%?"
+    },
+    {
+      "timestamp": 1713825543000,
+      "percent": 0.879980166737223,
+      "note": "Here\u2019s him telling me what to buy"
+    },
+    {
+      "timestamp": 1713831786000,
+      "percent": 0.927338627180052,
+      "note": "Emil no longer recommends buying the S&P 500. He actually prefers the CRSP inflation index or the Russell 3000"
+    },
+    {
+      "timestamp": 1713832474000,
+      "percent": 0.941563336219184,
+      "note": "In kind redemptions at ETFs are basically a tax cheat that regular index funds and mutual funds cannot take advantage of. When you redeem, instead of selling the shares and having you pay taxes on the ETFs cost basis, which may be two dollars for a specific stock, instead, they give you the shares themselves, and let you sell them, so you end up paying taxes at a cost basis of whatever the price of that stock was when you bought the ETF (for example, you might have that same Company stock at a cost basis of $25). At the same time, the ETF doesn't have to pay taxes on that two dollar share, because the share that they now hold has a cost basis of $25. So that $23 capital gain just proof disappears into thin air, and no one has to ever pay taxes on it. Did I get that right?"
+    },
+    {
+      "timestamp": 1713837730000,
+      "percent": 0.943254825897061,
+      "note": "I don\u2019t get it. Why is that a problem? Why not trade in and out of ETFs? Taxes? Wash sales? Commissions and loads and fees and bid-ask spreads?"
+    },
+    {
+      "timestamp": 1714060932000,
+      "percent": 0.978540267197346,
+      "note": "But if they use the same underlying index then it would run a foul of IRS regulations? Would it be considered a wash sale in that case?"
+    },
+    {
+      "timestamp": 1714066401000,
+      "percent": 0.997263554379795,
+      "note": "Yet. But, if the indexes are market weighted, as long as you have humans running them, there is always the chance that they will attempt to increase their profits at the expense of others"
     }
   ]
 }

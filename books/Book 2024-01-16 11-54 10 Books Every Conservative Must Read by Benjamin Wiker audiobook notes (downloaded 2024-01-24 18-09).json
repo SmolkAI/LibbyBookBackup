@@ -15,13 +15,80 @@
     },
     "author": "Benjamin Wiker",
     "publisher": "Blackstone Publishing",
-    "isbn": "9781481586481"
+    "isbn": "9781481586481",
+    "percent": 1.00000006253896
   },
   "circulation": [
     {
+      "timestamp": 1717747468000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1717742457000,
+      "activity": "Returned",
+      "details": "on due date",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1715928057000,
+      "activity": "Borrowed",
+      "details": " 21 days ",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1714371909000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1710523007000,
+      "activity": "Borrowed",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1707249285000,
+      "activity": "Returned",
+      "details": "on due date",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
+      "timestamp": 1707022304647,
+      "activity": "Placed on hold",
+      "library": {
+        "text": "San Francisco Public Library",
+        "url": "https://libbyapp.com/library/sfpl",
+        "key": "sfpl"
+      }
+    },
+    {
       "timestamp": 1705434885709,
       "activity": "Tagged",
-      "details": "🧾",
+      "details": "\ud83e\uddfe",
       "library": {
         "text": "San Francisco Public Library",
         "url": "https://libbyapp.com/library/sfpl",
@@ -37,6 +104,184 @@
         "url": "https://libbyapp.com/library/sfpl",
         "key": "sfpl"
       }
+    }
+  ],
+  "highlights": [],
+  "bookmarks": [
+    {
+      "timestamp": 1706631460000,
+      "percent": 0.016592637128724,
+      "note": "So he is beginning a book about conservatism by giving a fantastic, possibly the best possible, counter example that shows that being conservative is sometimes the wrong thing to do"
+    },
+    {
+      "timestamp": 1706892287000,
+      "percent": 0.0466406390018717,
+      "note": "This is the exact idea, that the institution of marriage is the foundation of society, that leads to the huge rift between modern-day \u201cconservatives\u201d and \u201cliberals\u201d"
+    },
+    {
+      "timestamp": 1714957622000,
+      "percent": 0.0613684658973368,
+      "note": "So, per Aristotle, a good \u201crule by many\u201d regime is a \u201cpolity.\u201d A democracy, on the other hand, is when you have rule by many, but those may still rule everything in their own favor, rather than for the public good. In other words, democracy is to polity as oligarchy is to aristocracy as tyranny is to kingship (where one person rules for the benefit of the many). I completely agree with this view."
+    },
+    {
+      "timestamp": 1714958972000,
+      "percent": 0.0925775457581217,
+      "note": "So, Chesterton was like Ben Shapiro. He's probably Shapiro model after, whom he's trying to emulate"
+    },
+    {
+      "timestamp": 1715490262000,
+      "percent": 0.290537634228314,
+      "note": "This book on conservatives is perfect for right now. It\u2019s a great explanation of what this modern communism is doing, and shows why \u201cwokeness\u201d is leading to evil, like these \u201cmostly peaceful\u201d BLM protests, these \u201cPro-Palestine\u201d Antifa campus occupiers, and these people giving medals to \u201ctranswomen\u201d when they tie for the place with a real woman"
+    },
+    {
+      "timestamp": 1715697079000,
+      "percent": 0.293308298854954,
+      "note": "He wrote this book in 2010. And how prophetic it seems now in 2024"
+    },
+    {
+      "timestamp": 1715923381000,
+      "percent": 0.313771476485029,
+      "note": "This is literally foretelling today's exact situation. For the second time, just like earlier, where it seemed like this was a prophet or a seer, that part that I showed Liza earlier"
+    },
+    {
+      "timestamp": 1715979214000,
+      "percent": 0.327403504139863,
+      "note": "#Book Alexis de Toqueville\u2019s books on America from the 18th century are worth a quick skim. 2 volumes"
+    },
+    {
+      "timestamp": 1716074803000,
+      "percent": 0.381569530750322,
+      "note": "Missed the last 10-ish min"
+    },
+    {
+      "timestamp": 1716077067000,
+      "percent": 0.404960205065215,
+      "note": "Most wars require the government to raise taxes. This makes sense. However, once the emergency passes, they usually leave the taxes and the gov expands to make use of [waste] them"
+    },
+    {
+      "timestamp": 1716225725000,
+      "percent": 0.460069617403453,
+      "note": "\u201c\u2026whom scholars think was\u2026\u201d who, not whom. Disappointing to hear this mistake. Makes me question the rest of the text"
+    },
+    {
+      "timestamp": 1716228700000,
+      "percent": 0.486035935430785,
+      "note": "Interesting. This is exactly what Netanyahu was saying about the Israeli judicial system. People talked about it here, but I didn\u2019t hear anyone reference Brutus (?), who said the same thing about the US system a couple hundred years ago"
+    },
+    {
+      "timestamp": 1716447106000,
+      "percent": 0.529590799142086,
+      "note": "A good way to measure how much you really crash have Easter Think about what you would have if the stock market crashed, the dollar crashed, and the national economy crashed. If you and your family would still have a job, a house, and food to eat, then you have real well. That means Romanov have real capital, since their wealth is not predicated on simply Fiat items period while they may have large numbers and balances, they have businesses that will survive no matter what the economy does. And these businesses will continue to bring them income, no matter how much the dollar is valued at. And they have a house, so they'll never have to try to buy a house"
+    },
+    {
+      "timestamp": 1716477981000,
+      "percent": 0.558266737488321,
+      "note": "10 years prescient, America has become a servile state"
+    },
+    {
+      "timestamp": 1717053074000,
+      "percent": 0.522610233952605,
+      "note": "So Belloc thought socialized healthcare is a step towards the \u201cservile state.\u201d"
+    },
+    {
+      "timestamp": 1717431142000,
+      "percent": 0.517342907111213,
+      "note": "Hillaire Belloc is a classic example of best-at-everything, but not good enough because of his religion and politics, if the author (Wiker) is to be believed"
+    },
+    {
+      "timestamp": 1717431395000,
+      "percent": 0.563261061350696,
+      "note": "So that puts me, I've until this point, as one of these\"Dreamers,\" whom Wiker clearly \u201cdespises\" (ie disagrees with)"
+    },
+    {
+      "timestamp": 1717435246000,
+      "percent": 0.564291581844322,
+      "note": "OK, never mind. The bureaucracy doesn't give my stomach a small satisfaction; rather, it makes me a little sick to the stomach, if anything"
+    },
+    {
+      "timestamp": 1717546638000,
+      "percent": 0.608314416847111,
+      "note": "And there is the problem. Even if the government intends to be of the people, by the people, and for the people, it necessarily has a few problems, since no one person can be an expert at  everything. So the government will have to split up lawmaking and law enforcement to a bunch of agents, only some of whom can be good enough"
+    },
+    {
+      "timestamp": 1717608751000,
+      "percent": 0.628308755257152,
+      "note": "Huh, so Shakespeare purchased a share in the Globe theater. That's why he produced Hamlet, Othello, and King Lear there. Because he not only got money for writing the plays, but he also got a cut of the theater\u2019s earnings"
+    },
+    {
+      "timestamp": 1717686570000,
+      "percent": 0.64674871254389,
+      "note": "Shakespeare doesn\u2019t believe that freedom means doing whatever you want? This is the conservative, traditional, religious view"
+    },
+    {
+      "timestamp": 1717686693000,
+      "percent": 0.648303172569789,
+      "note": "Liza is like this. Thinking everyone is good. Actually, she even said that you can see if someone\u2019s good or bad"
+    },
+    {
+      "timestamp": 1717692058000,
+      "percent": 0.671402906715714,
+      "note": "This chapter is great for a girl to listen to"
+    },
+    {
+      "timestamp": 1717782346000,
+      "percent": 0.75027767549207,
+      "note": "Fairies \u2248 elves"
+    },
+    {
+      "timestamp": 1717782358000,
+      "percent": 0.750660537184319,
+      "note": "Wiker suggests that Tolkien is Shakespeare\u2019s Prospero"
+    },
+    {
+      "timestamp": 1717790538000,
+      "percent": 0.782876203751552,
+      "note": "Isn't this the whole premise behind a Messiah? Moshiach is supposed to be someone who is the perfect ruler. Oh, and as he points out, an even better example is God, who is supposed to be beyond the king, which is why I didn't even associate him, for whom the same principle applies"
+    },
+    {
+      "timestamp": 1717792771000,
+      "percent": 0.803169609297856,
+      "note": "He pronounces the Tetragrammaton. That's an interesting choice"
+    },
+    {
+      "timestamp": 1717792940000,
+      "percent": 0.80428095234972,
+      "note": "Hey Wiker, your \u201cChristian\u201d is showing"
+    },
+    {
+      "timestamp": 1717793073000,
+      "percent": 0.807451705735204,
+      "note": "This is exactly what Mr. McNevin (emphasizing this name slightly, with a slight air of disgust) meant when he said that he had read the Bible in a literary sense. Read it through once, taking it as a story, as literature, putting aside any preconceived notions"
+    },
+    {
+      "timestamp": 1717793429000,
+      "percent": 0.810734842716964,
+      "note": "The greatness of the story, a Christmas Carol, requires that you believe in these ghosts as being integral to the story. It's not teach you a great moral truth about how you should be kind to poor people, but you actually need to experience the story the way he does, recognizing these ghosts teach him about all the wrong he's done in his life"
+    },
+    {
+      "timestamp": 1717797591000,
+      "percent": 0.813995071645282,
+      "note": "That is a good point that he makes. If God had wanted us to experience the Bible through just the small points that we take out of it, then god could've just written those points. However, it's designed to be read as a story"
+    },
+    {
+      "timestamp": 1717965522000,
+      "percent": 0.821041388997339,
+      "note": "Yep. Names aside, this is exactly what is being described here. Because a vow, someone's word, is so important and so powerful and so binding, you need something as significant as a sacrifice, a drawing of blood, to seal a covenant given between two people. How much more so a covenant given by God"
+    },
+    {
+      "timestamp": 1717985752000,
+      "percent": 0.899673742700709,
+      "note": "This guy really despises Ayn Rand. He talks about how juvenile she is, making up her mind as a teen and holding it throughout her entire life, e.g. taking some silly songs and classifying them as among the greats like Beethoven, and he talks about how she borrowed a little over $1000 from her family in today\u2019s dollars and never paid it back."
+    },
+    {
+      "timestamp": 1718032148000,
+      "percent": 0.951099008768067,
+      "note": "So, while he wildly disagrees with Ayn Rand\u2019s life, he appears to agree with her views written in the book"
+    },
+    {
+      "timestamp": 1718037615000,
+      "percent": 0.978800000348486,
+      "note": "At the 1962 American aesthetics Association, Rand presented a paper and was questioned. She didn't like this, and never allowed another interview again"
     }
   ]
 }
